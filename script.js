@@ -3,6 +3,11 @@ $('.btn-warning').tooltip({
     placement: "left"
 });
 
+$('.btn-info').tooltip({
+    title: "Good enough",
+    placement: "left"
+});
+
 $('.btn-success').tooltip({
     title: "Great Job!",
     placement: "left"
