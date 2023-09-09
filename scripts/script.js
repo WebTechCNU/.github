@@ -28,7 +28,7 @@ function appendDataToTable() {
 
         let i = 0;
         while(i < 4) {
-            let lab = $("<td>").text(item.points[i][0] * 10);
+            let lab = $("<td>").text(item.points[i][0] * grades[i]);
             let className = "warning";
             if (item.points[i][0] == 0.8) {
                 className = "info";
@@ -49,3 +49,4 @@ function appendDataToTable() {
     });
 }
 
+let grades = [10,15,20,15]
