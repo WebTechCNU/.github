@@ -12,7 +12,7 @@ let students = `[
     {"name":"Сворожинськи Володимир","points":[[1,"https://github.com/volodiacv/Laba1",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Скіцько Віолєтта","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Стужук Владислав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Тарадай Крістіна","points":[[1,"https://github.com/Kris070704/lab1_Taradai",""],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Тарадай Крістіна","points":[[1,"https://github.com/Kris070704/lab1_Taradai","https://kris070704.github.io/lab1_Taradai/"],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Татарин Діана","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Тимчишин Анастасія","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Хімчинський Володимир","points":[[1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/"],[0,"",""],[0,"",""],[0,"",""]]},
@@ -42,7 +42,7 @@ let students = `[
     {"name":"Ратушняк Іван","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Стрієнко Мар'яна-Еммануела","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Торський Сергій","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Трипадуш Богдан","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Трипадуш Богдан","points":[[1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-1","https://argasdtiger.github.io/Internet-Technology-Lab-1/"],[1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-2","https://argasdtiger.github.io/Internet-Technology-Lab-2/"],[0,"",""],[0,"",""]]},
     {"name":"Цера Микита","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Шахов Микита","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]}
 ]`;
