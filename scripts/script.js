@@ -30,6 +30,11 @@ function appendDataToTable() {
         while(i < 4) {
             let lab = $("<td>").text(item.points[i][0] * grades[i]);
             let className = "warning";
+            if(item.points[i][0] == 0){
+                row.append(lab);
+                i ++;
+                continue;
+            }
             if (item.points[i][0] == 0.8) {
                 className = "info";
             } else if (item.points[i][0] == 1) {
