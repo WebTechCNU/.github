@@ -45,7 +45,7 @@ let students = `[
     {"name":"Трипадуш Богдан","points":[[1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-1","https://argasdtiger.github.io/Internet-Technology-Lab-1/"],[1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-2","https://argasdtiger.github.io/Internet-Technology-Lab-2/"],[0,"",""],[0,"",""]]},
     {"name":"Цера Микита","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Шахов Микита","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Ватаманюк Марта Василівна","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Ватаманюк Марта Василівна","points":[[1,"https://github.com/vatamaniukmarta/lab1","https://vatamaniukmarta.github.io/lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Гриндей Павло Васильович","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Губенко Владислав Ігорович","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]}, 
