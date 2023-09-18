@@ -37,7 +37,7 @@ let students = `[
     {"name":"Лучик Іван","points":[[1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],[1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],[0,"",""],[0,"",""]]},
     {"name":"Малованюк Станіслав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Марчук Андрій","points":[[1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Мацалковський Владислав","points":[[1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Мацалковський Владислав","points":[[1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],[0,"",""],[1,"https://github.com/DeFrag73/LAB-3","https://defrag73.github.io/LAB-3/"],[0,"",""]]},
     {"name":"Немитий Мирослав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Ратушняк Іван","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Стрієнко Мар'яна-Еммануела","points":[[1,"https://github.com/emmastrienko/lab_1","https://emmastrienko.github.io/lab_1/"],[0,"",""],[0,"",""],[0,"",""]]},
