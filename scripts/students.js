@@ -17,7 +17,7 @@ let students = `[
     {"name":"Тимчишин Анастасія","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Хімчинський Володимир","points":[[1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/"],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Чепига Богдана","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Мельник Володимир","points":[[1,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/"],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Мельник Володимир","points":[[0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/"],[0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/"],[0,"",""],[0,"",""]]},
     {"name":"Міхалчан Максиміліан","points":[[1,"https://github.com/WebTechCNU/laba1_mikhalchan","https://webtechcnu.github.io/laba1_mikhalchan/"],[1,"https://github.com/MaximilianMMM/Laba_2_Mikhalchan","https://maximilianmmm.github.io/Laba_2_Mikhalchan/"],[0,"",""],[0,"",""]]},
     {"name":"Назарко Артем","points":[[0.8,"https://github.com/WebTechCNU/Laba1_Nazarko","https://webtechcnu.github.io/Laba1_Nazarko/"],[0.8,"https://github.com/WebTechCNU/laba2_Nazarko","https://webtechcnu.github.io/laba2_Nazarko/"],[0,"",""],[0,"",""]]},
     {"name":"Отрубчак Тетяна","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
