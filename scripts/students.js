@@ -23,7 +23,7 @@ let students = `[
     {"name":"Отрубчак Тетяна","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Ратушняк Наталія","points":[[1,"https://github.com/RNatali/Labolatory1RN","https://rnatali.github.io/Labolatory1RN/button.html"],[1,"https://github.com/RNatali/Laboratory2","https://rnatali.github.io/Laboratory2/button.html"],[0,"",""],[0,"",""]]},
     {"name":"Розновський Роман","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Рябов Олександр","points":[[1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/"],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Рябов Олександр","points":[[1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/"],[1,"https://github.com/Sashko192/lab2_Riabov","https://sashko192.github.io/lab2_Riabov/"],[0,"",""],[0,"",""]]},
     {"name":"Сарафінчан Ростислав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Сметанюк Михайло","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Тимчук Олександр","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
