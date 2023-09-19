@@ -55,4 +55,4 @@ function appendDataToTable() {
     });
 }
 
-let grades = [10,15,20,15]
+let grades = [10,10,15,25]
