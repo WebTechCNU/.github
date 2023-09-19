@@ -28,13 +28,14 @@ function appendDataToTable() {
 
         let i = 0;
         while(i < 4) {
-            let lab = $("<td>").text(item.points[i][0] * grades[i]);
+            let lab = $("<td>");
             let className = "warning";
             if(item.points[i][0] == 0){
                 row.append(lab);
                 i ++;
                 continue;
             }
+            lab.text(item.points[i][0] * grades[i]);
             if (item.points[i][0] == 0.8) {
                 className = "info";
             } else if (item.points[i][0] == 1) {
