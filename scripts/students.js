@@ -35,7 +35,7 @@ let students = `[
     {"name":"Ліліцак Вікторія","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Лупу Роман","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Лучик Іван","points":[[1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],[1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],[0,"",""],[0,"",""]]},
-    {"name":"Малованюк Станіслав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Малованюк Станіслав","points":[[0.8,"https://github.com/LUMA002/LUMA_shop_LAB1","https://luma002.github.io/LUMA_shop_LAB1/"],[1,"https://github.com/LUMA002/LUMA_shop_LAB2","https://luma002.github.io/LUMA_shop_LAB2/"],[0,"",""],[0,"",""]]},
     {"name":"Марчук Андрій","points":[[1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Мацалковський Владислав","points":[[1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],[1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],[1,"https://github.com/DeFrag73/LAB-3","https://defrag73.github.io/LAB-3/"],[0,"",""]]},
     {"name":"Немитий Мирослав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
