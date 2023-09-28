@@ -4,7 +4,7 @@ let students = `[
     {"name":"Вахнюк Вікторія","points":[[1,"https://github.com/viktoriavahniuk17/lab1","https://viktoriavahniuk17.github.io/lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Віщак Андрій","points":[[0.8,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],[1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],[0,"",""],[0,"",""]]},
     {"name":"Власійчук  Тетяна","points":[[1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/"],[0,"",""],[0,"",""],[0,"",""]]},
-    {"name":"Іванов Олексій","points":[[1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/"],[1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/"],[0.8,"https://github.com/Nimarchik/Nimarchik2.github.io","https://nimarchik.github.io/Nimarchik2.githab.io/"],[1,"","https://nimarchiklab-4.netlify.app"]]},
+    {"name":"Іванов Олексій","points":[[1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/"],[1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/"],[1,"https://github.com/Nimarchik/Nimarchik2.github.io","https://nimarchik.github.io/Nimarchik2.github.io/index.html"],[1,"","https://nimarchiklab-4.netlify.app"]]},
     {"name":"Кострикова Анастасія","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Коханюк Станіслав","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Нікуліна Вікторія","points":[[0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
