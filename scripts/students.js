@@ -162,7 +162,7 @@ let students = `[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Стрієнко Мар'яна-Еммануела","points":[
         [1,"https://github.com/emmastrienko/lab_1","https://emmastrienko.github.io/lab_1/"],
-        [0,"",""],
+        [1,"https://github.com/emmastrienko/lab2","https://emmastrienko.github.io/lab2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Торський Сергій","points":[
