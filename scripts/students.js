@@ -89,7 +89,7 @@ let students = `[
     {"name":"Міхалчан Максиміліан","points":[
         [1,"https://github.com/WebTechCNU/laba1_mikhalchan","https://webtechcnu.github.io/laba1_mikhalchan/"],
         [1,"https://github.com/MaximilianMMM/Laba_2_Mikhalchan","https://maximilianmmm.github.io/Laba_2_Mikhalchan/"],
-        [0,"",""],
+        [1,"https://github.com/MaximilianMMM/laba_3_Mikhalchan","https://maximilianmmm.github.io/laba_3_Mikhalchan/"],
         [0,"",""]]},
     {"name":"Назарко Артем","points":[
         [0.8,"https://github.com/WebTechCNU/Laba1_Nazarko","https://webtechcnu.github.io/Laba1_Nazarko/"],
@@ -111,7 +111,7 @@ let students = `[
     {"name":"Рябов Олександр","points":[
         [1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/"],
         [1,"https://github.com/Sashko192/lab2_Riabov","https://sashko192.github.io/lab2_Riabov/"],
-        [0,"",""],
+        [1,"https://github.com/Sashko192/Lab3_Riabov","https://sashko192.github.io/Lab3_Riabov/"],
         [0,"",""]]},
     {"name":"Сарафінчан Ростислав","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
@@ -170,7 +170,7 @@ let students = `[
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
         [1,"https://github.com/DeFrag73/LAB-3","https://defrag73.github.io/LAB-3/"],
-        [0,"",""]]},
+        [0,"https://github.com/DeFrag73/Lab_4","https://defrag73.github.io/Lab_4/"]]},
     {"name":"Немитий Мирослав","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Ратушняк Іван","points":[
@@ -207,7 +207,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Губенко Владислав Ігорович","points":[
-        [0,"",""],
+        [0.5,"https://github.com/VladHubenko/vlados","https://vladhubenko.github.io/vlados/"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]}, 
@@ -240,5 +240,10 @@ let students = `[
     {"name":"Семенчук Христина Дмитрівна","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
-        [0,"",""],[0,"",""],[0,"",""],[0,"",""]]}
+        [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
+    {"name":"Бичинюк Максим","points":[
+        [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity"],
+        [0,"",""],
+        [0,"",""],
+        [0,"",""]]}
 ]`;
