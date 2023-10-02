@@ -170,7 +170,7 @@ let students = `[
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
         [1,"https://github.com/DeFrag73/LAB-3","https://defrag73.github.io/LAB-3/"],
-        [0,"https://github.com/DeFrag73/Lab_4","https://defrag73.github.io/Lab_4/"]]},
+        [1,"https://github.com/DeFrag73/Lab_4","https://defrag73.github.io/Lab_4/"]]},
     {"name":"Немитий Мирослав","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Ратушняк Іван","points":[
