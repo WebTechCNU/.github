@@ -185,7 +185,7 @@ let students = `[
     {"name":"Трипадуш Богдан","points":[
         [1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-1","https://argasdtiger.github.io/Internet-Technology-Lab-1/"],
         [1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-2","https://argasdtiger.github.io/Internet-Technology-Lab-2/"],
-        [0,"",""],
+        [1,"https://github.com/ArgasDTiger/Internet-Techology-Lab-3","https://argasdtiger.github.io/Internet-Techology-Lab-3/index.html"],
         [0,"",""]]},
     {"name":"Цера Микита","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
