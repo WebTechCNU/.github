@@ -36,8 +36,8 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Коханюк Станіслав","points":[
-        [0,"",""],
-        [0,"",""],
+        [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/"],
+        [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Нікуліна Вікторія","points":[
@@ -108,7 +108,7 @@ let students = `[
         [1,"https://github.com/RNatali/Labolatory1RN","https://rnatali.github.io/Labolatory1RN/button.html"],
         [1,"https://github.com/RNatali/Laboratory2","https://rnatali.github.io/Laboratory2/button.html"],
         [1,"https://github.com/RNatali/Laboratory3","https://rnatali.github.io/Laboratory3/button.html"],
-        [0,"",""]]},
+        [1,"https://github.com/RNatali/Laboratory4","https://rnatali.github.io/Laboratory4/button.html"]]},
     {"name":"Розновський Роман","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Рябов Олександр","points":[
@@ -125,7 +125,7 @@ let students = `[
         [0,"",""]]},
     {"name":"Тимчук Олександр","points":[
         [1,"https://github.com/TymchukAlex/Laba_1_OiT","https://tymchukalex.github.io/Laba_1_OiT/"],
-        [0,"",""],
+        [1,"https://github.com/TymchukAlex/Laba_2_OiT","https://maxvonlancaster.github.io/Laba_2_OiT/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Токарчук Роман","points":[
@@ -135,9 +135,9 @@ let students = `[
         [0,"",""]]},
     {"name":"Черней Олексій","points":[
         [1,"https://github.com/Kibooto/Chernei-Partners-web","https://shark-app-al9zq.ondigitalocean.app"],
-        [1,"https://github.com/Kibooto/CalculatorPRO",""],
-        [0,"",""],
-        [0,"",""]]},
+        [1,"https://github.com/Kibooto/CalculatorPRO","https://king-prawn-app-6zvsb.ondigitalocean.app"],
+        [1,"https://github.com/Kibooto/3lab","https://king-prawn-app-6zvsb.ondigitalocean.app"],
+        [1,"https://github.com/Kibooto/4lab","https://king-prawn-app-6zvsb.ondigitalocean.app"]]},
     {"name":"Чеховський Станіслав","points":[
         [0.8,"https://github.com/MORCHIK1/HTML","https://morchik1.github.io/HTML/"],
         [0,"",""],
@@ -157,7 +157,7 @@ let students = `[
     {"name":"Лучик Іван","points":[
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/"],
-        [0,"",""],
+        [1,"https://github.com/LychokZZ/lab3","https://lychokzz.github.io/lab3/"],
         [0,"",""]]},
     {"name":"Малованюк Станіслав","points":[
         [0.8,"https://github.com/LUMA002/LUMA_shop_LAB1","https://luma002.github.io/LUMA_shop_LAB1/"],
@@ -168,7 +168,7 @@ let students = `[
         [1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],
         [0,"",""],
         [0,"",""],
-        [0,"",""]]},
+        [1,"https://github.com/Andiry-sys/Lab1.git","https://andiry-sys.github.io/Lab1/pages/lab4.html"]]},
     {"name":"Мацалковський Владислав","points":[
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
@@ -181,7 +181,7 @@ let students = `[
     {"name":"Стрієнко Мар'яна-Еммануела","points":[
         [1,"https://github.com/emmastrienko/lab_1","https://emmastrienko.github.io/lab_1/"],
         [1,"https://github.com/emmastrienko/lab2","https://emmastrienko.github.io/lab2/"],
-        [0,"",""],
+        [1,"https://github.com/emmastrienko/lab_3","https://emmastrienko.github.io/lab_3/lab_1/"],
         [0,"",""]]},
     {"name":"Торський Сергій","points":[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
@@ -249,7 +249,7 @@ let students = `[
         [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
     {"name":"Бичинюк Максим","points":[
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity"],
-        [0,"",""],
+        [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity"],
         [0,"",""],
         [0,"",""]]}
 ]`;
