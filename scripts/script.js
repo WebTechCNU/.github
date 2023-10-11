@@ -27,6 +27,7 @@ function appendDataToTable() {
         row.append(nameCell);
 
         let i = 0;
+        let sum = 0;
         while(i < 4) {
             let lab = $("<td>");
             let className = "warning";
@@ -35,6 +36,7 @@ function appendDataToTable() {
                 i ++;
                 continue;
             }
+            sum += item.points[i][0] * grades[i];
             lab.text(item.points[i][0] * grades[i]);
             if (item.points[i][0] == 0.8) {
                 className = "info";
@@ -50,6 +52,7 @@ function appendDataToTable() {
             row.append(lab);
             i ++;
         }
+        row.append($("<td>").text(sum));
 
         tableBody.append(row);
     });
