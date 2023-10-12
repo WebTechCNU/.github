@@ -8,8 +8,7 @@ let students = `[
         [0,"",""],
         [0,"",""],
         [0,"",""],
-        [0,"",""]
-    ]},
+        [0,"",""]]},
     {"name":"Вахнюк Вікторія","points":[
         [1,"https://github.com/viktoriavahniuk17/lab1","https://viktoriavahniuk17.github.io/lab1/"],
         [0,"",""],
@@ -31,7 +30,7 @@ let students = `[
         [1,"https://github.com/Nimarchik/Nimarchik2.github.io","https://nimarchik.github.io/Nimarchik2.github.io/index.html"],
         [1,"","https://nimarchiklab-4.netlify.app"]]},
     {"name":"Кострикова Анастасія","points":[
-        [0,"",""],
+        [1,"https://github.com/NanaDrama2/online-shop/","https://nanadrama2.github.io/online-shop/"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
@@ -291,7 +290,10 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
-        [0,"",""],[0,"",""],[0,"",""],[0,"",""]]},
+        [0,"",""],
+        [0,"",""],
+        [0,"",""],
+        [0,"",""]]},
     {"name":"Бичинюк Максим","points":[
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity"],
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity"],
