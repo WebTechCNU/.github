@@ -231,7 +231,7 @@ let students = `[
         [0,"",""]]},
     {"name":"Ватаманюк Марта Василівна","points":[
         [1,"https://github.com/vatamaniukmarta/lab1","https://vatamaniukmarta.github.io/lab1/"],
-        [0,"",""],
+        [1,"https://github.com/vatamaniukmarta/lab2","https://vatamaniukmarta.github.io/lab2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[
@@ -240,7 +240,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Гриндей Павло Васильович","points":[
-        [0,"",""],
+        [1,"https://github.com/pavlohryndei/laba1","https://pavlohryndei.github.io/laba1/Untitled-1.html"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
