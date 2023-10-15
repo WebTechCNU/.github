@@ -170,8 +170,8 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Лупу Роман","points":[
-        [0,"",""],
-        [0,"",""],
+        [1,"https://github.com/R0manD/Lab1","https://r0mand.github.io/Lab1/"],
+        [1,"https://github.com/R0manD/Lab2","https://r0mand.github.io/Lab2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Лучик Іван","points":[
