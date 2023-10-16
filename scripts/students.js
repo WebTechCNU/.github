@@ -92,7 +92,7 @@ let students = `[
     {"name":"Мельник Володимир","points":[
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/"],
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/"],
-        [0,"",""],
+        [1,"https://github.com/kap1yn/LAB_OIT_3_FINAL","https://kap1yn.github.io/LAB_OIT_3_FINAL/"],
         [0,"",""]]},
     {"name":"Міхалчан Максиміліан","points":[
         [1,"https://github.com/WebTechCNU/laba1_mikhalchan","https://webtechcnu.github.io/laba1_mikhalchan/"],
@@ -132,7 +132,7 @@ let students = `[
     {"name":"Сметанюк Михайло","points":[
         [1,"https://github.com/MishaSmetaniuk/lab1","https://mishasmetaniuk.github.io/lab1/"],
         [0.8,"https://github.com/MishaSmetaniuk/lab2","https://mishasmetaniuk.github.io/lab2/"],
-        [0,"",""],
+        [0.8,"https://github.com/WebTechCNU/Lab3_Smetaniuk","https://webtechcnu.github.io/Lab3_Smetaniuk/"],
         [0,"",""]]},
     {"name":"Тимчук Олександр","points":[
         [1,"https://github.com/TymchukAlex/Laba_1_OiT","https://tymchukalex.github.io/Laba_1_OiT/"],
@@ -142,7 +142,7 @@ let students = `[
     {"name":"Токарчук Роман","points":[
         [0.8,"https://github.com/RoomToom/lab1","https://roomtoom.github.io/lab1/Papizi.html"],
         [0.8,"https://github.com/RoomToom/lab1","https://roomtoom.github.io/lab1/Papizi.html"],
-        [0,"",""],
+        [1,"https://github.com/RoomToom/lab3.1","https://roomtoom.github.io/lab3.1/dobryipochantek/"],
         [0,"",""]]},
     {"name":"Черней Олексій","points":[
         [1,"https://github.com/Kibooto/Chernei-Partners-web","https://shark-app-al9zq.ondigitalocean.app"],
