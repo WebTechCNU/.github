@@ -186,8 +186,8 @@ let students = `[
         [0,"",""]]},
     {"name":"Марчук Андрій","points":[
         [1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],
-        [0,"",""],
-        [0,"",""],
+        [1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],
+        [0.8,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],
         [1,"https://github.com/Andiry-sys/Lab1.git","https://andiry-sys.github.io/Lab1/pages/lab4.html"]]},
     {"name":"Мацалковський Владислав","points":[
         [1,"https://github.com/DeFrag73/lab1","https://defrag73.github.io/lab1/"],
