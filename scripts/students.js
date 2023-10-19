@@ -40,7 +40,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Нікуліна Вікторія","points":[
-        [0,"",""],
+        [1,"https://github.com/NikkiVik/lab1","https://nikkivik.github.io/lab1/index.html"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
@@ -75,7 +75,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Тимчишин Анастасія","points":[
-        [0,"",""],
+        [1,"https://github.com/Nastya3333333333333/Laba1","https://nastya3333333333333.github.io/Laba1/main"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
