@@ -182,7 +182,7 @@ let students = `[
     {"name":"Малованюк Станіслав","points":[
         [0.8,"https://github.com/LUMA002/LUMA_shop_LAB1","https://luma002.github.io/LUMA_shop_LAB1/"],
         [1,"https://github.com/LUMA002/LUMA_shop_LAB2","https://luma002.github.io/LUMA_shop_LAB2/"],
-        [0,"",""],
+        [1,"https://github.com/LUMA002/LUMA_shop_LAB3","https://luma002.github.io/LUMA_shop_LAB3/"],
         [0,"",""]]},
     {"name":"Марчук Андрій","points":[
         [1,"https://github.com/Andiry-sys/Lab1","https://andiry-sys.github.io/Lab1/"],
