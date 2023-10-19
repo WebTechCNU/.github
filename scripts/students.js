@@ -15,7 +15,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Віщак Андрій","points":[
-        [0.8,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
+        [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
         [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
         [0,"",""],
         [0,"",""]]},
