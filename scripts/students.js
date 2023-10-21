@@ -17,7 +17,7 @@ let students = `[
     {"name":"Віщак Андрій","points":[
         [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
         [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
-        [0,"",""],
+        [1,"https://github.com/Andriu3245/Lab-3","https://andriu3245.github.io/Lab-3/"],
         [0,"",""]]},
     {"name":"Власійчук  Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/"],
@@ -123,7 +123,7 @@ let students = `[
         [1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/"],
         [1,"https://github.com/Sashko192/lab2_Riabov","https://sashko192.github.io/lab2_Riabov/"],
         [1,"https://github.com/Sashko192/Lab3_Riabov","https://sashko192.github.io/Lab3_Riabov/"],
-        [0,"",""]]},
+        [1,"https://github.com/Sashko192/Lab4_Riabov","https://touragencyriabov.netlify.app/"]]},
     {"name":"Сарафінчан Ростислав","points":[
         [0,"",""],
         [0,"",""],
@@ -241,7 +241,7 @@ let students = `[
         [0,"",""]]},
     {"name":"Гриндей Павло Васильович","points":[
         [1,"https://github.com/pavlohryndei/laba1","https://pavlohryndei.github.io/laba1/Untitled-1.html"],
-        [0,"",""],
+        [1,"https://github.com/pavlohryndei/laban2","https://pavlohryndei.github.io/laban2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Губенко Владислав Ігорович","points":[
