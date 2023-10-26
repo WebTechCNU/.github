@@ -81,9 +81,9 @@ let students = `[
         [0,"",""]]},
     {"name":"Хімчинський Володимир","points":[
         [1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/"],
-        [0,"",""],
-        [0,"",""],
-        [0,"",""]]},
+        [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/"],
+        [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/"],
+        [1,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/"]]},
     {"name":"Чепига Богдана","points":[
         [1,"https://github.com/Dana2704/Dana27041.github.io","https://dana2704.github.io/Dana27041.github.io/"],
         [0,"",""],
@@ -235,7 +235,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[
-        [0,"",""],
+        [0.8,"https://github.com/anitschka13/lab1","https://anitschka13.github.io/lab1/"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
