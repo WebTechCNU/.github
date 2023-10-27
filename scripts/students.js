@@ -281,7 +281,7 @@ let students = `[
         [0,"",""]]},
     {"name":"Семенча Єгор Віталійович","points":[
         [1,"https://github.com/semenchaegor/lab1_new","https://semenchaegor.github.io/lab1_new1/"],
-        [0,"",""],
+        [1,"https://github.com/semenchaegor/laba.2","https://semenchaegor.github.io/laba.2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Семенчук Христина Дмитрівна","points":[
