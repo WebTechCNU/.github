@@ -18,7 +18,7 @@ let students = `[
         [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
         [1,"https://github.com/Andriu3245/Andriu3245.github.io","https://andriu3245.github.io/"],
         [1,"https://github.com/Andriu3245/Lab-3","https://andriu3245.github.io/Lab-3/"],
-        [0,"",""]]},
+        [1,"https://github.com/Andriu3245/lab4","https://andriu3245.github.io/lab4/"]]},
     {"name":"Власійчук  Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/"],
         [0,"",""],
