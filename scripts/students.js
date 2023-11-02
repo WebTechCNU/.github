@@ -55,10 +55,10 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Скіцько Віолєтта","points":[
-        [0.8,"https://github.com/vviolettaaa/vviolettaaa1.github.io","https://vviolettaaa.github.io/vviolettaaa1.github.io/"],
-        [0,"",""],
-        [0,"",""],
-        [0,"",""]]},
+        [1,"https://github.com/vviolettaaa/vviolettaaa1.github.io","https://vviolettaaa.github.io/vviolettaaa1.github.io/"],
+        [1,"https://github.com/vviolettaaa/vviolettaaalab.github.io","https://vviolettaaa.github.io/vviolettaaalab.github.io/index.html"],
+        [1,"https://github.com/vviolettaaa/vviolettaaalab.github.io","https://vviolettaaa.github.io/vviolettaaalab.github.io/index.html"],
+        [0.8,"https://github.com/vviolettaaa/vviolettaaalab.github.io","https://vviolettaaa.github.io/vviolettaaalab.github.io/index.html"]]},
     {"name":"Стужук Владислав","points":[
         [0,"",""],
         [0,"",""],
@@ -218,7 +218,7 @@ let students = `[
         [1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-1","https://argasdtiger.github.io/Internet-Technology-Lab-1/"],
         [1,"https://github.com/ArgasDTiger/Internet-Technology-Lab-2","https://argasdtiger.github.io/Internet-Technology-Lab-2/"],
         [1,"https://github.com/ArgasDTiger/Internet-Techology-Lab-3","https://argasdtiger.github.io/Internet-Techology-Lab-3/index.html"],
-        [0,"",""]]},
+        [0.8,"https://github.com/ArgasDTiger/----4/tree/main","https://argasdtiger.github.io/----4/"]]},
     {"name":"Цера Микита","points":[
         [0,"",""],
         [0,"",""],
