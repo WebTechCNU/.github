@@ -37,7 +37,7 @@ let students = `[
     {"name":"Коханюк Станіслав","points":[
         [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/"],
         [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/"],
-        [0,"",""],
+        [1,"https://github.com/staaskokhaniukk/Staas_Lab_3","https://staaskokhaniukk.github.io/Staas_Lab_3/"],
         [0,"",""]]},
     {"name":"Нікуліна Вікторія","points":[
         [1,"https://github.com/NikkiVik/lab1","https://nikkivik.github.io/lab1/index.html"],
@@ -242,11 +242,11 @@ let students = `[
     {"name":"Гриндей Павло Васильович","points":[
         [1,"https://github.com/pavlohryndei/laba1","https://pavlohryndei.github.io/laba1/Untitled-1.html"],
         [1,"https://github.com/pavlohryndei/laban2","https://pavlohryndei.github.io/laban2/"],
-        [0,"",""],
+        [1,"https://github.com/pavlohryndei/laba3","https://pavlohryndei.github.io/laba3/"],
         [0,"",""]]},
     {"name":"Губенко Владислав Ігорович","points":[
-        [0.5,"https://github.com/VladHubenko/vlados","https://vladhubenko.github.io/vlados/"],
-        [0,"",""],
+        [0.8,"https://github.com/VladHubenko/vlados","https://vladhubenko.github.io/vlados/"],
+        [0.8,"https://github.com/VladHubenko/lab2","https://vladhubenko.github.io/lab2/inex.html"],
         [0,"",""],
         [0,"",""]]}, 
     {"name":"Катеринюк Марія Михайлівна","points":[
@@ -256,7 +256,7 @@ let students = `[
         [0,"",""]]}, 
     {"name":"Костенюк Артур Михайлович","points":[
         [1,"https://github.com/ArturKosteniuk/Laba1","https://arturkosteniuk.github.io/Laba1/"],
-        [0,"",""],
+        [1,"https://github.com/ArturKosteniuk/laba2","https://arturkosteniuk.github.io/laba2/"],
         [0,"",""],
         [0,"",""]]}, 
     {"name":"Кукульняк Валентин Віталійович","points":[
