@@ -137,7 +137,7 @@ let students = `[
     {"name":"Тимчук Олександр","points":[
         [1,"https://github.com/TymchukAlex/Laba_1_OiT","https://tymchukalex.github.io/Laba_1_OiT/"],
         [1,"https://github.com/TymchukAlex/Laba_2_OiT","https://maxvonlancaster.github.io/Laba_2_OiT/"],
-        [0,"",""],
+        [0.8,"https://github.com/TymchukAlex/Laba_3_OiT","https://tymchukalex.github.io/Laba_3_OiT/"],
         [0,"",""]]},
     {"name":"Токарчук Роман","points":[
         [0.8,"https://github.com/RoomToom/lab1","https://roomtoom.github.io/lab1/Papizi.html"],
