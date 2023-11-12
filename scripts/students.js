@@ -1,11 +1,11 @@
 let students = `[
     {"name":"Боднарюк Максим","points":[
         [1,"https://github.com/Bodnamax/Bodnariuk.github.io","https://bodnamax.github.io/Bodnariuk.github.io/"],
-        [0,"",""],
-        [0,"",""],
+        [1,"https://github.com/Bodnamax/Bodnariuk-lab2.github.io","https://bodnamax.github.io/Bodnariuk-lab2.github.io/"],
+        [0.8,"https://github.com/Bodnamax/Bodnariuk-lab-3","https://bodnamax.github.io/Bodnariuk-lab-3/content.html#Scout"],
         [0,"",""]]},
     {"name":"Бурлака Ірина","points":[
-        [0,"",""],
+        [1,"https://github.com/burlakaIryna/burlakaIryna.github.io","https://burlakairyna.github.io/nnn.html"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
@@ -21,7 +21,7 @@ let students = `[
         [1,"https://github.com/Andriu3245/lab4","https://andriu3245.github.io/lab4/"]]},
     {"name":"Власійчук  Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/"],
-        [0,"",""],
+        [1,"https://github.com/vlasiichuktetiana/lab2","https://vlasiichuktetiana.github.io/lab2/"],
         [0,"",""],
         [0,"",""]]},
     {"name":"Іванов Олексій","points":[
@@ -107,8 +107,8 @@ let students = `[
     {"name":"Отрубчак Тетяна","points":[
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html"],
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html"],
-        [0,"",""],
-        [0,"",""]]},
+        [1,"https://github.com/taniaotr/laba3_otrubchakt","https://taniaotr.github.io/laba3_otrubchakt/index.html"],
+        [0.8,"https://github.com/taniaotr/laba4_otrubchakt","https://taniaotr.github.io/laba4_otrubchakt/"]]},
     {"name":"Ратушняк Наталія","points":[
         [1,"https://github.com/RNatali/Labolatory1RN","https://rnatali.github.io/Labolatory1RN/button.html"],
         [1,"https://github.com/RNatali/Laboratory2","https://rnatali.github.io/Laboratory2/button.html"],
@@ -151,8 +151,8 @@ let students = `[
         [1,"https://github.com/Kibooto/4lab","https://king-prawn-app-6zvsb.ondigitalocean.app"]]},
     {"name":"Чеховський Станіслав","points":[
         [0.8,"https://github.com/MORCHIK1/HTML","https://morchik1.github.io/HTML/"],
-        [0,"",""],
-        [0,"",""],
+        [1,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html"],
+        [0.8,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html"],
         [0,"",""]]},
     {"name":"Шмігельська Анна","points":[
         [0,"",""],
@@ -232,7 +232,7 @@ let students = `[
     {"name":"Ватаманюк Марта Василівна","points":[
         [1,"https://github.com/vatamaniukmarta/lab1","https://vatamaniukmarta.github.io/lab1/"],
         [1,"https://github.com/vatamaniukmarta/lab2","https://vatamaniukmarta.github.io/lab2/"],
-        [0,"",""],
+        [1,"https://github.com/vatamaniukmarta/lab3","https://vatamaniukmarta.github.io/lab3/"],
         [0,"",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[
         [0.8,"https://github.com/anitschka13/lab1","https://anitschka13.github.io/lab1/"],
@@ -270,7 +270,7 @@ let students = `[
         [0,"",""],
         [0,"",""]]},
     {"name":"Наумук Анна Володимирівна","points":[
-        [0,"",""],
+        [0.5,"https://github.com/anya0105/lab1/tree/main","https://anya0105.github.io/lab1/"],
         [0,"",""],
         [0,"",""],
         [0,"",""]]},
