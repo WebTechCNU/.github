@@ -14,4 +14,4 @@
 
 <b>Викладач: Мельник Василь Сергійович</b>, кандидат фіз.-мат. наук, асистент кафедри математичного моделювання
 
-Для студентів, що бажають отримати автомат до заліку: <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">link</a>
+Для студентів, що бажають отримати автомат до заліку: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">link</a>
