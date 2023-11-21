@@ -51,8 +51,8 @@ let students = `[
         [0,"",""]]},
     {"name":"Сворожинськи Володимир","points":[
         [1,"https://github.com/volodiacv/Laba1",""],
-        [0,"",""],
-        [0,"",""],
+        [0.8,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html"],
+        [0.8,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html"],
         [0,"",""]]},
     {"name":"Скіцько Віолєтта","points":[
         [1,"https://github.com/vviolettaaa/vviolettaaa1.github.io","https://vviolettaaa.github.io/vviolettaaa1.github.io/"],
