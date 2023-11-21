@@ -3,7 +3,7 @@ let students = `[
         [1,"https://github.com/Bodnamax/Bodnariuk.github.io","https://bodnamax.github.io/Bodnariuk.github.io/"],
         [1,"https://github.com/Bodnamax/Bodnariuk-lab2.github.io","https://bodnamax.github.io/Bodnariuk-lab2.github.io/"],
         [0.8,"https://github.com/Bodnamax/Bodnariuk-lab-3","https://bodnamax.github.io/Bodnariuk-lab-3/content.html#Scout"],
-        [0,"https://github.com/Bodnamax/Bodnariuk_laba4.git","https://bodnamax.github.io/Bodnariuk_laba4/"]]},
+        [1,"https://github.com/Bodnamax/Bodnariuk_laba4.git","https://bodnamax.github.io/Bodnariuk_laba4/"]]},
     {"name":"Бурлака Ірина","points":[
         [1,"https://github.com/burlakaIryna/burlakaIryna.github.io","https://burlakairyna.github.io/nnn.html"],
         [0,"",""],
