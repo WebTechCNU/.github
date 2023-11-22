@@ -6,6 +6,8 @@
 
 Результати виконання лабораторних (2 курс): https://webtechcnu.github.io/.github/semester_2324_1.html
 
+Фреймворки JavaScript (3 курс): https://webtechcnu.github.io/.github/js_2324_1.html
+
 <br/>
 
 <b>Сучасні клієнтські веб-технології </b>
