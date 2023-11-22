@@ -257,7 +257,7 @@ let students = `[
     {"name":"Костенюк Артур Михайлович","points":[
         [1,"https://github.com/ArturKosteniuk/Laba1","https://arturkosteniuk.github.io/Laba1/"],
         [1,"https://github.com/ArturKosteniuk/laba2","https://arturkosteniuk.github.io/laba2/"],
-        [0,"",""],
+        [1,"https://github.com/ArturKosteniuk/laba3","https://arturkosteniuk.github.io/laba3/"],
         [0,"",""]]}, 
     {"name":"Кукульняк Валентин Віталійович","points":[
         [0,"",""],
