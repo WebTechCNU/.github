@@ -82,7 +82,7 @@ let students = `[
     {"name":"Хімчинський Володимир","points":[
         [1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/",""],
         [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/",""],
-        [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/",""],
+        [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/","(10)підменю-dropdown"],
         [1,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/",""]]},
     {"name":"Чепига Богдана","points":[
         [1,"https://github.com/Dana2704/Dana27041.github.io","https://dana2704.github.io/Dana27041.github.io/",""],
@@ -108,7 +108,7 @@ let students = `[
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
         [1,"https://github.com/taniaotr/laba3_otrubchakt","https://taniaotr.github.io/laba3_otrubchakt/index.html",""],
-        [0.8,"https://github.com/taniaotr/laba4_otrubchakt","https://taniaotr.github.io/laba4_otrubchakt/",""]]},
+        [0.8,"https://github.com/taniaotr/laba4_otrubchakt","https://taniaotr.github.io/laba4_otrubchakt/","(2)Sign in"]]},
     {"name":"Ратушняк Наталія","points":[
         [1,"https://github.com/RNatali/Labolatory1RN","https://rnatali.github.io/Labolatory1RN/button.html",""],
         [1,"https://github.com/RNatali/Laboratory2","https://rnatali.github.io/Laboratory2/button.html",""],
@@ -132,12 +132,12 @@ let students = `[
     {"name":"Сметанюк Михайло","points":[
         [1,"https://github.com/MishaSmetaniuk/lab1","https://mishasmetaniuk.github.io/lab1/",""],
         [0.8,"https://github.com/MishaSmetaniuk/lab2","https://mishasmetaniuk.github.io/lab2/",""],
-        [0.8,"https://github.com/WebTechCNU/Lab3_Smetaniuk","https://webtechcnu.github.io/Lab3_Smetaniuk/",""],
+        [0.8,"https://github.com/WebTechCNU/Lab3_Smetaniuk","https://webtechcnu.github.io/Lab3_Smetaniuk/","(3)градієнт"],
         [1,"https://github.com/MishaSmetaniuk/Lab4_Smetaniuk","https://mishasmetaniuk.github.io/Lab4_Smetaniuk/bootstrap.html",""]]},
     {"name":"Тимчук Олександр","points":[
         [1,"https://github.com/TymchukAlex/Laba_1_OiT","https://tymchukalex.github.io/Laba_1_OiT/",""],
         [1,"https://github.com/TymchukAlex/Laba_2_OiT","https://maxvonlancaster.github.io/Laba_2_OiT/",""],
-        [0.8,"https://github.com/TymchukAlex/Laba_3_OiT","https://tymchukalex.github.io/Laba_3_OiT/",""],
+        [0.8,"https://github.com/TymchukAlex/Laba_3_OiT","https://tymchukalex.github.io/Laba_3_OiT/","(2)кнопка навігації вгору;"],
         [0,"","",""]]},
     {"name":"Токарчук Роман","points":[
         [0.8,"https://github.com/RoomToom/lab1","https://roomtoom.github.io/lab1/Papizi.html",""],
@@ -152,13 +152,13 @@ let students = `[
     {"name":"Чеховський Станіслав","points":[
         [0.8,"https://github.com/MORCHIK1/HTML","https://morchik1.github.io/HTML/",""],
         [1,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html",""],
-        [0.8,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html",""],
+        [0.8,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html","(3)градієнт"],
         [0,"","",""]]},
     {"name":"Шмігельська Анна","points":[
         [0.8,"https://github.com/annieshm/lab-1-Shmihelska","https://annieshm.github.io/lab-1-Shmihelska/",""],
         [1,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/",""],
         [0.8,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/",""],
-        [1,"https://github.com/annieshm/lab4-Shmihelska","https://annieshm.github.io/lab4-Shmihelska/",""]]},
+        [1,"https://github.com/annieshm/lab4-Shmihelska","https://annieshm.github.io/lab4-Shmihelska/","(2)кнопка навігації вгору;"]]},
     {"name":"Лисенко Нікола","points":[
         [0,"","",""],
         [0,"","",""],
@@ -178,7 +178,7 @@ let students = `[
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/",""],
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/",""],
         [1,"https://github.com/LychokZZ/lab3","https://lychokzz.github.io/lab3/",""],
-        [0.8,"https://github.com/LychokZZ/lab4","https://lychokzz.github.io/lab4",""]]},
+        [0.8,"https://github.com/LychokZZ/lab4","https://lychokzz.github.io/lab4","(10)bootstrap"]]},
     {"name":"Малованюк Станіслав","points":[
         [0.8,"https://github.com/LUMA002/LUMA_shop_LAB1","https://luma002.github.io/LUMA_shop_LAB1/",""],
         [1,"https://github.com/LUMA002/LUMA_shop_LAB2","https://luma002.github.io/LUMA_shop_LAB2/",""],
@@ -252,8 +252,8 @@ let students = `[
     {"name":"Катеринюк Марія Михайлівна","points":[
         [0.5,"https://github.com/mariia1308/media-school","https://mariia1308.github.io/media-school/",""],
         [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""],
-        [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""],
-        [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""]]}, 
+        [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/","(3)градієнт"],
+        [1,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""]]}, 
     {"name":"Костенюк Артур Михайлович","points":[
         [1,"https://github.com/ArturKosteniuk/Laba1","https://arturkosteniuk.github.io/Laba1/",""],
         [1,"https://github.com/ArturKosteniuk/laba2","https://arturkosteniuk.github.io/laba2/",""],
