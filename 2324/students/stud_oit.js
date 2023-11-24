@@ -88,7 +88,7 @@ let students = `[
         [1,"https://github.com/Dana2704/Dana27041.github.io","https://dana2704.github.io/Dana27041.github.io/",""],
         [1,"https://github.com/Dana2704/-2-3-4.","https://dana2704.github.io/-2-3-4./",""],
         [1,"https://github.com/Dana2704/-2-3-4.","https://dana2704.github.io/-2-3-4./",""],
-        [0.8,"https://github.com/Dana2704/-2-3-4.","https://dana2704.github.io/-2-3-4./",""]]},
+        [0.8,"https://github.com/Dana2704/-2-3-4.","https://dana2704.github.io/-2-3-4./","(10)bootstrap"]]},
     {"name":"Мельник Володимир","points":[
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/",""],
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/",""],
@@ -157,8 +157,8 @@ let students = `[
     {"name":"Шмігельська Анна","points":[
         [0.8,"https://github.com/annieshm/lab-1-Shmihelska","https://annieshm.github.io/lab-1-Shmihelska/",""],
         [1,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/",""],
-        [0.8,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/",""],
-        [1,"https://github.com/annieshm/lab4-Shmihelska","https://annieshm.github.io/lab4-Shmihelska/","(2)кнопка навігації вгору;"]]},
+        [0.8,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/","(2)кнопка навігації вгору;"],
+        [1,"https://github.com/annieshm/lab4-Shmihelska","https://annieshm.github.io/lab4-Shmihelska/",""]]},
     {"name":"Лисенко Нікола","points":[
         [0,"","",""],
         [0,"","",""],
@@ -247,7 +247,7 @@ let students = `[
     {"name":"Губенко Владислав Ігорович","points":[
         [0.8,"https://github.com/VladHubenko/vlados","https://vladhubenko.github.io/vlados/",""],
         [0.8,"https://github.com/VladHubenko/lab2","https://vladhubenko.github.io/lab2/inex.html",""],
-        [0.8,"https://github.com/VladHubenko/-3-","https://vladhubenko.github.io/-3-/",""],
+        [0.8,"https://github.com/VladHubenko/-3-","https://vladhubenko.github.io/-3-/","(3)градієнт"],
         [0,"","",""]]}, 
     {"name":"Катеринюк Марія Михайлівна","points":[
         [0.5,"https://github.com/mariia1308/media-school","https://mariia1308.github.io/media-school/",""],
@@ -287,7 +287,7 @@ let students = `[
     {"name":"Семенчук Христина Дмитрівна","points":[
         [0.8,"https://github.com/Semenchuk03/Lab1","https://semenchuk03.github.io/Lab1/site.html",""],
         [1,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/",""],
-        [0.8,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/",""],
+        [0.8,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/","(3)градієнт"],
         [0,"","",""]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
         [0,"","",""],
