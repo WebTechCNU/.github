@@ -2,7 +2,7 @@ let students = `[
     {"name":"Боднарюк Максим","points":[
         [1,"https://github.com/Bodnamax/Bodnariuk.github.io","https://bodnamax.github.io/Bodnariuk.github.io/",""],
         [1,"https://github.com/Bodnamax/Bodnariuk-lab2.github.io","https://bodnamax.github.io/Bodnariuk-lab2.github.io/",""],
-        [0.8,"https://github.com/Bodnamax/Bodnariuk-lab-3","https://bodnamax.github.io/Bodnariuk-lab-3/content.html#Scout",""],
+        [0.8,"https://github.com/Bodnamax/Bodnariuk-lab-3","https://bodnamax.github.io/Bodnariuk-lab-3/content.html#Scout","(3)градієнт"],
         [1,"https://github.com/Bodnamax/Bodnariuk_laba4.git","https://bodnamax.github.io/Bodnariuk_laba4/",""]]},
     {"name":"Бурлака Ірина","points":[
         [1,"https://github.com/burlakaIryna/burlakaIryna.github.io","https://burlakairyna.github.io/nnn.html",""],
@@ -51,8 +51,8 @@ let students = `[
         [0,"","",""]]},
     {"name":"Сворожинськи Володимир","points":[
         [1,"https://github.com/volodiacv/Laba1","",""],
-        [0.8,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html",""],
-        [0.8,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html",""],
+        [1,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html",""],
+        [0.8,"https://github.com/volodiacv/Laba-2-3.git","https://maxvonlancaster.github.io/Laba-2-3/index.html","(3)градієнт"],
         [0,"","",""]]},
     {"name":"Скіцько Віолєтта","points":[
         [1,"https://github.com/vviolettaaa/vviolettaaa1.github.io","https://vviolettaaa.github.io/vviolettaaa1.github.io/",""],
@@ -103,7 +103,7 @@ let students = `[
         [0.8,"https://github.com/WebTechCNU/Laba1_Nazarko","https://webtechcnu.github.io/Laba1_Nazarko/",""],
         [0.8,"https://github.com/WebTechCNU/laba2_Nazarko","https://webtechcnu.github.io/laba2_Nazarko/",""],
         [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""],
-        [0.8,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""]]},
+        [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""]]},
     {"name":"Отрубчак Тетяна","points":[
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
