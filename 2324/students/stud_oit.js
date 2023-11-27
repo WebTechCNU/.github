@@ -103,7 +103,8 @@ let students = `[
         [0.8,"https://github.com/WebTechCNU/Laba1_Nazarko","https://webtechcnu.github.io/Laba1_Nazarko/",""],
         [0.8,"https://github.com/WebTechCNU/laba2_Nazarko","https://webtechcnu.github.io/laba2_Nazarko/",""],
         [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""],
-        [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""]]},
+        [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""],
+        [1,"https://github.com/18Artem26/lab5_Nazarko","https://18artem26.github.io/lab5_Nazarko/",""]]},
     {"name":"Отрубчак Тетяна","points":[
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
@@ -148,7 +149,8 @@ let students = `[
         [1,"https://github.com/Kibooto/Chernei-Partners-web","https://shark-app-al9zq.ondigitalocean.app",""],
         [1,"https://github.com/Kibooto/CalculatorPRO","https://king-prawn-app-6zvsb.ondigitalocean.app",""],
         [1,"https://github.com/Kibooto/3lab","https://king-prawn-app-6zvsb.ondigitalocean.app",""],
-        [1,"https://github.com/Kibooto/4lab","https://king-prawn-app-6zvsb.ondigitalocean.app",""]]},
+        [1,"https://github.com/Kibooto/4lab","https://king-prawn-app-6zvsb.ondigitalocean.app",""],
+        [1,"https://github.com/Kibooto/doggie-type","https://github.com/Kibooto/doggie-type",""]]},
     {"name":"Чеховський Станіслав","points":[
         [0.8,"https://github.com/MORCHIK1/HTML","https://morchik1.github.io/HTML/",""],
         [1,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html",""],

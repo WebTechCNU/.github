@@ -28,10 +28,10 @@ function appendDataToTable() {
 
         let i = 0;
         let sum = 0;
-        while(i < 4) {
+        while(i < 5) {
             let lab = $("<td>");
             let className = "warning";
-            if(item.points[i][0] == 0){
+            if(!item.points[i] || item.points[i][0] == 0){
                 row.append(lab);
                 i ++;
                 continue;
@@ -59,4 +59,4 @@ function appendDataToTable() {
     });
 }
 
-let grades = [10,10,15,25]
+let grades = [10,10,15,25,10]
