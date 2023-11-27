@@ -104,7 +104,7 @@ let students = `[
         [0.8,"https://github.com/WebTechCNU/laba2_Nazarko","https://webtechcnu.github.io/laba2_Nazarko/",""],
         [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""],
         [1,"https://github.com/WebTechCNU/Laba_4_Nazarko","https://webtechcnu.github.io/Laba_4_Nazarko/index.html/index.html",""],
-        [1,"https://github.com/18Artem26/lab5_Nazarko","https://18artem26.github.io/lab5_Nazarko/",""]]},
+        [0.8,"https://github.com/18Artem26/lab5_Nazarko","https://18artem26.github.io/lab5_Nazarko/",""]]},
     {"name":"Отрубчак Тетяна","points":[
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
         [1,"https://github.com/taniaotr/lab2__otrubchak/tree/main","https://taniaotr.github.io/lab2__otrubchak/landing/index.html",""],
