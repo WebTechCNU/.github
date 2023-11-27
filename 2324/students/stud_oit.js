@@ -76,7 +76,7 @@ let students = `[
         [0,"","",""]]},
     {"name":"Тимчишин Анастасія","points":[
         [1,"https://github.com/Nastya3333333333333/Laba1","https://nastya3333333333333.github.io/Laba1/main",""],
-        [0,"","",""],
+        [1,"https://github.com/Nastya3333333333333/Laba2","https://nastya3333333333333.github.io/Laba2/main.html",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Хімчинський Володимир","points":[
@@ -93,12 +93,12 @@ let students = `[
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/",""],
         [0.8,"https://github.com/kap1yn/LAB_OIT_1","https://kap1yn.github.io/LAB_OIT/",""],
         [1,"https://github.com/kap1yn/LAB_OIT_3_FINAL","https://kap1yn.github.io/LAB_OIT_3_FINAL/",""],
-        [0,"","",""]]},
+        [1,"https://github.com/kap1yn/LAB_OIT_4","https://kap1yn.github.io/LAB_OIT_4/",""]]},
     {"name":"Міхалчан Максиміліан","points":[
         [1,"https://github.com/WebTechCNU/laba1_mikhalchan","https://webtechcnu.github.io/laba1_mikhalchan/",""],
         [1,"https://github.com/MaximilianMMM/Laba_2_Mikhalchan","https://maximilianmmm.github.io/Laba_2_Mikhalchan/",""],
         [1,"https://github.com/MaximilianMMM/laba_3_Mikhalchan","https://maximilianmmm.github.io/laba_3_Mikhalchan/",""],
-        [0,"","",""]]},
+        [1,"https://github.com/MaximilianMMM/Laba_4_Mihalchan","https://maximilianmmm.github.io/Laba_4_Mihalchan/",""]]},
     {"name":"Назарко Артем","points":[
         [0.8,"https://github.com/WebTechCNU/Laba1_Nazarko","https://webtechcnu.github.io/Laba1_Nazarko/",""],
         [0.8,"https://github.com/WebTechCNU/laba2_Nazarko","https://webtechcnu.github.io/laba2_Nazarko/",""],
@@ -153,7 +153,7 @@ let students = `[
         [0.8,"https://github.com/MORCHIK1/HTML","https://morchik1.github.io/HTML/",""],
         [1,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html",""],
         [0.8,"https://github.com/MORCHIK1/HTML2/tree/main","https://morchik1.github.io/HTML2/index.html","(3)градієнт"],
-        [0,"","",""]]},
+        [1,"https://github.com/MORCHIK1/HTMLF.git","https://morchik1.github.io/HTMLF/",""]]},
     {"name":"Шмігельська Анна","points":[
         [0.8,"https://github.com/annieshm/lab-1-Shmihelska","https://annieshm.github.io/lab-1-Shmihelska/",""],
         [1,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/",""],
@@ -236,8 +236,8 @@ let students = `[
         [0,"","",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[
         [0.8,"https://github.com/anitschka13/lab1","https://anitschka13.github.io/lab1/",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/anitschka/laba2-3","https://anitschka.github.io/laba2-3/",""],
+        [0.8,"https://github.com/anitschka/laba2-3","https://anitschka.github.io/laba2-3/","broken links"],
         [0,"","",""]]},
     {"name":"Гриндей Павло Васильович","points":[
         [1,"https://github.com/pavlohryndei/laba1","https://pavlohryndei.github.io/laba1/Untitled-1.html",""],
