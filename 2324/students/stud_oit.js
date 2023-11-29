@@ -268,9 +268,9 @@ let students = `[
         [0,"","",""]]},
     {"name":"Матвієнко Андрій Володимирович","points":[
         [1,"https://github.com/andriimatvienko/web/tree/main","https://andriimatvienko.github.io/web/",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [1,"","https://mellifluous-bunny-9da34a.netlify.app/",""],
+        [0.8,"","https://mellifluous-bunny-9da34a.netlify.app/","(2)кнопка навігації вгору; (3)градієнт"],
+        [0.8,"","https://mellifluous-bunny-9da34a.netlify.app/","(3)Sign in modal; (10)bootstrap"]]},
     {"name":"Наумук Анна Володимирівна","points":[
         [0.5,"https://github.com/anya0105/lab1/tree/main","https://anya0105.github.io/lab1/",""],
         [1,"https://github.com/anya0105/lab","https://anya0105.github.io/lab/",""],
