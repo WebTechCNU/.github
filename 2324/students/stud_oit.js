@@ -42,7 +42,7 @@ let students = `[
     {"name":"Нікуліна Вікторія","points":[
         [1,"https://github.com/NikkiVik/lab1","https://nikkivik.github.io/lab1/index.html",""],
         [1,"https://github.com/NikkiVik/laba2","https://nikkivik.github.io/laba2/",""],
-        [0,"","",""],
+        [1,"https://github.com/NikkiVik/laba3","https://nikkivik.github.io/Lab3/",""],
         [0,"","",""]]},
     {"name":"Присняк Євгенія","points":[
         [0,"","",""],
@@ -60,9 +60,9 @@ let students = `[
         [1,"https://github.com/vviolettaaa/vviolettaaalab.github.io","https://vviolettaaa.github.io/vviolettaaalab.github.io/index.html",""],
         [1,"https://github.com/vviolettaaa/vviolettaaalab.github.io","https://vviolettaaa.github.io/vviolettaaalab.github.io/index.html",""]]},
     {"name":"Стужук Владислав","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"","https://stuzhukv.github.io/Lab1/","Out of time"],
+        [0.8,"","https://stuzhukv.github.io/Lab2/","Out of time"],
+        [0.8,"","https://stuzhukv.github.io/Lab3/","(5)flex, grid"],
         [0,"","",""]]},
     {"name":"Тарадай Крістіна","points":[
         [1,"https://github.com/Kris070704/lab1_Taradai","https://kris070704.github.io/lab1_Taradai/",""],
@@ -174,8 +174,8 @@ let students = `[
     {"name":"Лупу Роман","points":[
         [1,"https://github.com/R0manD/Lab1","https://r0mand.github.io/Lab1/","Поведінка!"],
         [1,"https://github.com/R0manD/Lab2","https://r0mand.github.io/Lab2/",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.5,"https://github.com/R0manD/Lab3","https://r0mand.github.io/Laba3/","(3)градієнт"],
+        [0.5,"https://github.com/R0manD/Lab4","https://r0mand.github.io/Laba4/","(10)bootstrap"]]},
     {"name":"Лучик Іван","points":[
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/",""],
         [1,"https://github.com/LychokZZ/laab1","https://lychokzz.github.io/laab1/",""],
@@ -235,7 +235,7 @@ let students = `[
         [1,"https://github.com/vatamaniukmarta/lab1","https://vatamaniukmarta.github.io/lab1/",""],
         [1,"https://github.com/vatamaniukmarta/lab2","https://vatamaniukmarta.github.io/lab2/",""],
         [1,"https://github.com/vatamaniukmarta/lab3","https://vatamaniukmarta.github.io/lab3/",""],
-        [0,"","",""]]},
+        [1,"https://github.com/vatamaniukmarta/4.lab","https://vatamaniukmarta.github.io/4.lab/vatamaniuk.205.labN1/",""]]},
     {"name":"Гелич Ганна Геннадіївна","points":[
         [0.8,"https://github.com/anitschka13/lab1","https://anitschka13.github.io/lab1/",""],
         [1,"https://github.com/anitschka/laba2-3","https://anitschka.github.io/laba2-3/",""],
@@ -250,7 +250,7 @@ let students = `[
         [0.8,"https://github.com/VladHubenko/vlados","https://vladhubenko.github.io/vlados/",""],
         [0.8,"https://github.com/VladHubenko/lab2","https://vladhubenko.github.io/lab2/inex.html",""],
         [0.8,"https://github.com/VladHubenko/-3-","https://vladhubenko.github.io/-3-/","(3)градієнт"],
-        [0,"","",""]]}, 
+        [0.8,"","https://vladhubenko.github.io/lab-4/","(10)bootstrap"]]}, 
     {"name":"Катеринюк Марія Михайлівна","points":[
         [0.5,"https://github.com/mariia1308/media-school","https://mariia1308.github.io/media-school/",""],
         [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""],
@@ -273,9 +273,9 @@ let students = `[
         [0,"","",""]]},
     {"name":"Наумук Анна Володимирівна","points":[
         [0.5,"https://github.com/anya0105/lab1/tree/main","https://anya0105.github.io/lab1/",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [1,"https://github.com/anya0105/lab","https://anya0105.github.io/lab/",""],
+        [0.8,"https://github.com/anya0105/lab","https://anya0105.github.io/lab/","(3)градієнт"],
+        [0.8,"https://github.com/anya0105/lab","https://anya0105.github.io/lab/","(3)Sign in modal"]]},
     {"name":"Погориловський Олександр В'ячеславович","points":[
         [0,"","",""],
         [0,"","",""],
@@ -300,5 +300,10 @@ let students = `[
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity",""],
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity",""],
         [1,"https://github.com/imaksb/lab3","https://imaksb.github.io/lab3",""],
-        [1,"https://github.com/imaksb/lab4","https://sage-stroopwafel-c40c00.netlify.app/",""]]}
+        [1,"https://github.com/imaksb/lab4","https://sage-stroopwafel-c40c00.netlify.app/",""]]},
+        {"name":"Романко Андрій","points":[
+            [1,"https://github.com/Starks12/lab_1","https://starks12.github.io/lab_1/",""],
+            [1,"https://github.com/Starks12/lab_2","https://starks12.github.io/lab_2/",""],
+            [1,"https://github.com/Starks12/lab_3","https://starks12.github.io/lab_3/",""],
+            [0.8,"https://github.com/Starks12/lab_4","https://starks12.github.io/lab_4","(3)Sign in modal"]]}
 ]`;
