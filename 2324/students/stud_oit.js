@@ -71,9 +71,9 @@ let students = `[
         [0,"","",""]]},
     {"name":"Татарин Діана","points":[
         [1,"https://github.com/Dianatataryn/web_lab_1","https://dianatataryn.github.io/web_lab_1/",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.8,"https://github.com/Dianatataryn/lab.2.3.4","https://dianatataryn.github.io/lab.2.3.4/","Out of time"],
+        [1,"https://github.com/Dianatataryn/lab.2.3.4","https://dianatataryn.github.io/lab.2.3.4/",""],
+        [1,"https://github.com/Dianatataryn/lab.2.3.4","https://dianatataryn.github.io/lab.2.3.4/",""]]},
     {"name":"Тимчишин Анастасія","points":[
         [1,"https://github.com/Nastya3333333333333/Laba1","https://nastya3333333333333.github.io/Laba1/main",""],
         [1,"https://github.com/Nastya3333333333333/Laba2","https://nastya3333333333333.github.io/Laba2/main.html",""],
@@ -162,10 +162,10 @@ let students = `[
         [0.8,"https://github.com/annieshm/lab2-Shmihelska","https://annieshm.github.io/lab2-Shmihelska/","(2)кнопка навігації вгору;"],
         [1,"https://github.com/annieshm/lab4-Shmihelska","https://annieshm.github.io/lab4-Shmihelska/",""]]},
     {"name":"Лисенко Нікола","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.5,"https://github.com/lysenkonikola/LABB-1-4.git","https://lysenkonikola.github.io/lab-1-4./","Out of time; Stolen from Марчук Андрій"],
+        [0.5,"https://github.com/lysenkonikola/LABB-1-4.git","https://lysenkonikola.github.io/lab-1-4./","Out of time; Stolen from Марчук Андрій"],
+        [0.5,"https://github.com/lysenkonikola/LABB-1-4.git","https://lysenkonikola.github.io/lab-1-4./","Stolen from Марчук Андрій"],
+        [0.5,"https://github.com/lysenkonikola/LABB-1-4.git","https://lysenkonikola.github.io/lab-1-4./","Stolen from Марчук Андрій"]]},
     {"name":"Ліліцак Вікторія","points":[
         [0,"","","Поведінка!"],
         [0,"","",""],
@@ -240,7 +240,7 @@ let students = `[
         [0.8,"https://github.com/anitschka13/lab1","https://anitschka13.github.io/lab1/",""],
         [1,"https://github.com/anitschka/laba2-3","https://anitschka.github.io/laba2-3/",""],
         [0.8,"https://github.com/anitschka/laba2-3","https://anitschka.github.io/laba2-3/","broken links"],
-        [0,"","",""]]},
+        [0.5,"","https://anitschka.github.io/lab4/","(2)Sign in; broken links"]]},
     {"name":"Гриндей Павло Васильович","points":[
         [1,"https://github.com/pavlohryndei/laba1","https://pavlohryndei.github.io/laba1/Untitled-1.html",""],
         [1,"https://github.com/pavlohryndei/laban2","https://pavlohryndei.github.io/laban2/",""],
@@ -290,7 +290,7 @@ let students = `[
         [0.8,"https://github.com/Semenchuk03/Lab1","https://semenchuk03.github.io/Lab1/site.html",""],
         [1,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/",""],
         [0.8,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/","(3)градієнт"],
-        [0,"","",""]]},
+        [0.8,"","https://semenchuk03.github.io/lab4/","(4)adaptive menu"]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
         [0,"","",""],
         [0,"","",""],
