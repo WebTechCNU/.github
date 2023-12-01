@@ -63,7 +63,7 @@ let students = `[
         [0.8,"","https://stuzhukv.github.io/Lab1/","Out of time"],
         [0.8,"","https://stuzhukv.github.io/Lab2/","Out of time"],
         [0.8,"","https://stuzhukv.github.io/Lab3/","(5)flex, grid"],
-        [0,"","",""]]},
+        [0.8,"","https://stuzhukv.github.io/Lab4/","(4)adaptive menu"]]},
     {"name":"Тарадай Крістіна","points":[
         [1,"https://github.com/Kris070704/lab1_Taradai","https://kris070704.github.io/lab1_Taradai/",""],
         [1,"https://github.com/Kris070704/Lab2_Taradai","https://kris070704.github.io/Lab2_Taradai/login.html",""],
@@ -77,7 +77,7 @@ let students = `[
     {"name":"Тимчишин Анастасія","points":[
         [1,"https://github.com/Nastya3333333333333/Laba1","https://nastya3333333333333.github.io/Laba1/main",""],
         [1,"https://github.com/Nastya3333333333333/Laba2","https://nastya3333333333333.github.io/Laba2/main.html",""],
-        [0,"","",""],
+        [1,"https://github.com/Nastya3333333333333/Laba3","https://nastya3333333333333.github.io/Laba3/main.html",""],
         [0,"","",""]]},
     {"name":"Хімчинський Володимир","points":[
         [1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/",""],
@@ -116,10 +116,10 @@ let students = `[
         [1,"https://github.com/RNatali/Laboratory3","https://rnatali.github.io/Laboratory3/button.html",""],
         [1,"https://github.com/RNatali/Laboratory4","https://rnatali.github.io/Laboratory4/button.html",""]]},
     {"name":"Розновський Роман","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.5,"","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"","","No deployment link provided; Images not loading"],
+        [0.5,"","","No deployment link provided; Images not loading"]]},
     {"name":"Рябов Олександр","points":[
         [1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/",""],
         [1,"https://github.com/Sashko192/lab2_Riabov","https://sashko192.github.io/lab2_Riabov/",""],
@@ -227,10 +227,10 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Шахов Микита","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.5,"https://github.com/aty2a/OIT.git","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"https://github.com/aty2a/OIT.git","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"https://github.com/aty2a/OIT.git","","No deployment link provided; Images not loading"],
+        [0.5,"https://github.com/aty2a/OIT.git","","No deployment link provided; Images not loading"]]},
     {"name":"Ватаманюк Марта Василівна","points":[
         [1,"https://github.com/vatamaniukmarta/lab1","https://vatamaniukmarta.github.io/lab1/",""],
         [1,"https://github.com/vatamaniukmarta/lab2","https://vatamaniukmarta.github.io/lab2/",""],
@@ -285,7 +285,7 @@ let students = `[
         [1,"https://github.com/semenchaegor/lab1_new","https://semenchaegor.github.io/lab1_new1/",""],
         [1,"https://github.com/semenchaegor/laba.2","https://semenchaegor.github.io/laba.2/",""],
         [1,"https://github.com/semenchaegor/lad_3","https://semenchaegor.github.io/lad_3/",""],
-        [0,"","",""]]},
+        [1,"https://github.com/semenchaegor/lad_4","https://semenchaegor.github.io/lad_4/",""]]},
     {"name":"Семенчук Христина Дмитрівна","points":[
         [0.8,"https://github.com/Semenchuk03/Lab1","https://semenchuk03.github.io/Lab1/site.html",""],
         [1,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/",""],

@@ -120,9 +120,9 @@ let students = `[
 [0,""],
 [0,""]]},
     {"name":" ◦ Гаюк Євген Миколайович","points":[
-[0,""],
-[0,""],
-[0,""],
+[1,"https://github.com/WebTechCNU/lab1-Yevhen-Haiuk"],
+[1,"https://github.com/WebTechCNU/lab2-Yevhen-Haiuk"],
+[1,"https://github.com/WebTechCNU/lab3-Yevhen-Haiuk"],
 [0,""],
 [0,""]]},
 {"name":" ◦ Граб Андрій Миколайович","points":[
