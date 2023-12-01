@@ -116,10 +116,10 @@ let students = `[
         [1,"https://github.com/RNatali/Laboratory3","https://rnatali.github.io/Laboratory3/button.html",""],
         [1,"https://github.com/RNatali/Laboratory4","https://rnatali.github.io/Laboratory4/button.html",""]]},
     {"name":"Розновський Роман","points":[
-        [0.5,"","","No deployment link provided; Out of time; Images not loading"],
-        [0.5,"","","No deployment link provided; Out of time; Images not loading"],
-        [0.5,"","","No deployment link provided; Images not loading"],
-        [0.5,"","","No deployment link provided; Images not loading"]]},
+        [0.5,"https://github.com/roznovskyi/OIT_labs.git","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"https://github.com/roznovskyi/OIT_labs.git","","No deployment link provided; Out of time; Images not loading"],
+        [0.5,"https://github.com/roznovskyi/OIT_labs.git","","No deployment link provided; Images not loading"],
+        [0.5,"https://github.com/roznovskyi/OIT_labs.git","","No deployment link provided; Images not loading"]]},
     {"name":"Рябов Олександр","points":[
         [1,"https://github.com/Sashko192/laba1_Riabov","https://sashko192.github.io/laba1_Riabov/",""],
         [1,"https://github.com/Sashko192/lab2_Riabov","https://sashko192.github.io/lab2_Riabov/",""],
