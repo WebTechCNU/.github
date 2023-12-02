@@ -232,5 +232,11 @@ let students = `[
 [0,""],
 [0,""],
 [0,""],
-[0,""]]}
+[0,""]]},
+{"name":"Яцюк Марія","points":[
+    [1,"https://github.com/MariykaYatsiuk/web"],
+    [1,"https://github.com/WebTechCNU/lab2_Yatsiuk_js_frameworks"],
+    [1,"https://github.com/MariykaYatsiuk/web3"],
+    [0,""],
+    [0,""]]}
 ]`;

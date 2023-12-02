@@ -22,7 +22,7 @@ let students = `[
     {"name":"Власійчук  Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/",""],
         [1,"https://github.com/vlasiichuktetiana/lab2","https://vlasiichuktetiana.github.io/lab2/",""],
-        [0,"","",""],
+        [1,"https://github.com/vlasiichuktetiana/lab3","https://vlasiichuktetiana.github.io/lab3/",""],
         [0,"","",""]]},
     {"name":"Іванов Олексій","points":[
         [1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/",""],
@@ -43,7 +43,7 @@ let students = `[
         [1,"https://github.com/NikkiVik/lab1","https://nikkivik.github.io/lab1/index.html",""],
         [1,"https://github.com/NikkiVik/laba2","https://nikkivik.github.io/laba2/",""],
         [1,"https://github.com/NikkiVik/laba3","https://nikkivik.github.io/Lab3/",""],
-        [0,"","",""]]},
+        [0.8,"https://github.com/NikkiVik/lab4","https://nikkivik.github.io/lab4/","(3)Sign in modal"]]},
     {"name":"Присняк Євгенія","points":[
         [0,"","",""],
         [0,"","",""],
@@ -78,7 +78,7 @@ let students = `[
         [1,"https://github.com/Nastya3333333333333/Laba1","https://nastya3333333333333.github.io/Laba1/main",""],
         [1,"https://github.com/Nastya3333333333333/Laba2","https://nastya3333333333333.github.io/Laba2/main.html",""],
         [1,"https://github.com/Nastya3333333333333/Laba3","https://nastya3333333333333.github.io/Laba3/main.html",""],
-        [0,"","",""]]},
+        [0.8,"https://github.com/Nastya3333333333333/Laba4","https://nastya3333333333333.github.io/Laba4/main.html","(10)bootstrap, (3)Sign in modal"]]},
     {"name":"Хімчинський Володимир","points":[
         [1,"https://github.com/Blazewozy/laba1","https://blazewozy.github.io/laba1/",""],
         [0.8,"https://github.com/Blazewozy/laba1","https://653985409a845e3258a2e4b5--precious-piroshki-4d67d2.netlify.app/",""],
@@ -292,18 +292,18 @@ let students = `[
         [0.8,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/","(3)градієнт"],
         [0.8,"","https://semenchuk03.github.io/lab4/","(4)adaptive menu"]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.8,"","https://kattiinn.github.io/web.lab/","Out of time"],
+        [0.8,"","https://kattiinn.github.io/web.lab/","Out of time"],
+        [0.8,"","https://kattiinn.github.io/web.lab/","(2)кнопка навігації вгору; (3)градієнт"],
+        [0.8,"","https://kattiinn.github.io/web.lab/","(10)bootstrap"]]},
     {"name":"Бичинюк Максим","points":[
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity",""],
         [1,"https://github.com/Viannedi/cybersecurity","http://viannedi.github.io/cybersecurity",""],
         [1,"https://github.com/imaksb/lab3","https://imaksb.github.io/lab3",""],
         [1,"https://github.com/imaksb/lab4","https://sage-stroopwafel-c40c00.netlify.app/",""]]},
-        {"name":"Романко Андрій","points":[
-            [1,"https://github.com/Starks12/lab_1","https://starks12.github.io/lab_1/",""],
-            [1,"https://github.com/Starks12/lab_2","https://starks12.github.io/lab_2/",""],
-            [1,"https://github.com/Starks12/lab_3","https://starks12.github.io/lab_3/",""],
-            [0.8,"https://github.com/Starks12/lab_4","https://starks12.github.io/lab_4","(3)Sign in modal"]]}
+    {"name":"Романко Андрій","points":[
+        [1,"https://github.com/Starks12/lab_1","https://starks12.github.io/lab_1/",""],
+        [1,"https://github.com/Starks12/lab_2","https://starks12.github.io/lab_2/",""],
+        [1,"https://github.com/Starks12/lab_3","https://starks12.github.io/lab_3/",""],
+        [0.8,"https://github.com/Starks12/lab_4","https://starks12.github.io/lab_4","(3)Sign in modal"]]}
 ]`;
