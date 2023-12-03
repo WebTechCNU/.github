@@ -84,9 +84,9 @@ let students = `[
     [0,""],
     [0,""]]},
 {"name":"◦ Анатійчук Роман Васильович","points":[
-    [0,""],
-    [0,""],
-    [0,""],
+    [1,"https://github.com/WebTechCNU/anatiichuk_lab1"],
+    [1,"https://github.com/WebTechCNU/anatiichuk_lab2"],
+    [1,"https://github.com/WebTechCNU/anatiichuk_labb3"],
     [0,""],
     [0,""]]},
 {"name":" ◦ Антонюк Костянтин Олегович","points":[
