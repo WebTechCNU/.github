@@ -111,19 +111,19 @@ let students = `[
 [1,"https://github.com/WebTechCNU/JS-Frameworks_Vikovan_307_Lab1"],
 [1,"https://github.com/WebTechCNU/Lab--2-Vikovan"],
 [0,""],
-[0,""],
-[0,""]]},
+[1,"https://github.com/cryme666/simple-todo-app"],
+[1,"https://github.com/cryme666/simple-todo-app"]]},
     {"name":" ✓ Галюк Олег Олександрович","points":[
+[1,"https://github.com/str-djkr/LAb_js"],
+[1,"https://github.com/str-djkr/LAb_js"],
 [0,""],
-[0,""],
-[0,""],
-[0,""],
+[1,"https://github.com/str-djkr/LAb_js"],
 [0,""]]},
     {"name":" ◦ Гаюк Євген Миколайович","points":[
 [1,"https://github.com/WebTechCNU/lab1-Yevhen-Haiuk"],
 [1,"https://github.com/WebTechCNU/lab2-Yevhen-Haiuk"],
 [1,"https://github.com/WebTechCNU/lab3-Yevhen-Haiuk"],
-[0,""],
+[1,"https://github.com/WebTechCNU/lab4-Yevhen-Haiuk"],
 [0,""]]},
 {"name":" ◦ Граб Андрій Миколайович","points":[
     [0,""],
@@ -170,8 +170,8 @@ let students = `[
 {"name":"Кирлан Іван Джованні","points":[
     [1,"https://github.com/WebTechCNU/JS-Frameworks_Kyrlan_307_Lab1"],
     [1,"https://github.com/WebTechCNU/JS-Frameworks_Kyrlan_307_Lab2"],
-    [0,""],
-    [0,""],
+    [1,"https://github.com/WebTechCNU/JS-Frameworks_Kyrlan_307_Lab3"],
+    [1,"https://github.com/WebTechCNU/JS-Frameworks_Kyrlan_307_Lab4"],
     [0,""]]},
 {"name":"Кіященко Михайло Леонідович","points":[
     [0,""],
@@ -237,6 +237,12 @@ let students = `[
     [1,"https://github.com/MariykaYatsiuk/web"],
     [1,"https://github.com/WebTechCNU/lab2_Yatsiuk_js_frameworks"],
     [1,"https://github.com/MariykaYatsiuk/web3"],
-    [0,""],
-    [0,""]]}
+    [1,"https://github.com/MariykaYatsiuk/web4yatsiuk"],
+    [0,""]]},
+    {"name":"Журат Настя","points":[
+        [0,""],
+        [0,""],
+        [0,""],
+        [0,""],
+        [1,""]]}
 ]`;
