@@ -292,7 +292,7 @@ let students = `[
         [0.8,"https://github.com/Semenchuk03/laba2-3","https://semenchuk03.github.io/laba2-3/","(3)градієнт"],
         [0.8,"","https://semenchuk03.github.io/lab4/","(4)adaptive menu"]]},
     {"name":"Трифаненко Катерина Ігорівна","points":[
-        [0.8,"","https://kattiinn.github.io/web.lab/","Out of time"],
+        [0.8,"","https://kattiinn.github.io/web.lab/","80 B Out of time"],
         [0.8,"","https://kattiinn.github.io/web.lab/","Out of time"],
         [0.8,"","https://kattiinn.github.io/web.lab/","(2)кнопка навігації вгору; (3)градієнт"],
         [0.8,"","https://kattiinn.github.io/web.lab/","(10)bootstrap"]]},
@@ -310,5 +310,5 @@ let students = `[
             [0.8,"","","50 E"],
             [0.8,"","",""],
             [0,"","",""],
-            [0,"","",""]]},
+            [0,"","",""]]}
 ]`;
