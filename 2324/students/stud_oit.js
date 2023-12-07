@@ -257,7 +257,7 @@ let students = `[
         [0.8,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/","(3)градієнт"],
         [1,"https://github.com/mariia1308/lab2-3-4","https://mariia1308.github.io/lab2-3-4/",""]]}, 
     {"name":"Костенюк Артур Михайлович","points":[
-        [1,"https://github.com/ArturKosteniuk/Laba1","https://arturkosteniuk.github.io/Laba1/",""],
+        [1,"https://github.com/ArturKosteniuk/Laba1","https://arturkosteniuk.github.io/Laba1/","91 A"],
         [1,"https://github.com/ArturKosteniuk/laba2","https://arturkosteniuk.github.io/laba2/",""],
         [1,"https://github.com/ArturKosteniuk/laba3","https://arturkosteniuk.github.io/laba3/",""],
         [1,"https://github.com/ArturKosteniuk/lab4","https://arturkosteniuk.github.io/lab4/",""]]}, 
