@@ -23,7 +23,7 @@ let students = `[
         [1,"https://github.com/vlasiichuktetiana/lab1","https://vlasiichuktetiana.github.io/lab1/",""],
         [1,"https://github.com/vlasiichuktetiana/lab2","https://vlasiichuktetiana.github.io/lab2/",""],
         [1,"https://github.com/vlasiichuktetiana/lab3","https://vlasiichuktetiana.github.io/lab3/",""],
-        [0,"","",""]]},
+        [0.8,"https://github.com/vlasiichuktetiana/lab4","https://vlasiichuktetiana.github.io/lab4/","out of time"]]},
     {"name":"Іванов Олексій","points":[
         [1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/",""],
         [1,"https://github.com/Nimarchik/Nimarchik.github.io","https://nimarchik.github.io/",""],
@@ -310,5 +310,11 @@ let students = `[
             [0.8,"","","50 E"],
             [0.8,"","",""],
             [0,"","",""],
-            [0,"","",""]]}
+            [0,"","",""]]},
+{"name":"Сворожинський Володимир ","points":[
+    [0,"","",""],
+    [0,"","",""],
+    [0,"","",""],
+    [0.5,"https://github.com/volodiacv/Laba-4.git","https://shiny-sopapillas-d3d0bf.netlify.app/",
+    "Out of time; (3)Sign in modal; (4)adaptive menu; (6)feedback"]]}
 ]`;
