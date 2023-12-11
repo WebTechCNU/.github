@@ -38,7 +38,7 @@ let students = `[
         [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/",""],
         [1,"https://github.com/staaskokhaniukk/lab1.2_Kokhaniuk","https://staaskokhaniukk.github.io/lab1.2_Kokhaniuk/",""],
         [1,"https://github.com/staaskokhaniukk/Staas_Lab_3","https://staaskokhaniukk.github.io/Staas_Lab_3/",""],
-        [0,"","",""]]},
+        [1,"https://staaskokhaniukk.github.io/staas_lab4/","https://staaskokhaniukk.github.io/staas_lab4/","Out of time"]]},
     {"name":"Нікуліна Вікторія","points":[
         [1,"https://github.com/NikkiVik/lab1","https://nikkivik.github.io/lab1/index.html",""],
         [1,"https://github.com/NikkiVik/laba2","https://nikkivik.github.io/laba2/",""],
@@ -262,10 +262,10 @@ let students = `[
         [1,"https://github.com/ArturKosteniuk/laba3","https://arturkosteniuk.github.io/laba3/",""],
         [1,"https://github.com/ArturKosteniuk/lab4","https://arturkosteniuk.github.io/lab4/",""]]}, 
     {"name":"Кукульняк Валентин Віталійович","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.5,"https://github.com/WebTechCNU/Kukulnyak_205_oit","","Out of time", "18 test + 33 + 10 = 61 D"],
+        [0.8,"https://github.com/WebTechCNU/Kukulnyak_205_oit","","Out of time"],
+        [0.5,"https://github.com/WebTechCNU/Kukulnyak_205_oit","","Out of time; gradient; dropdown"],
+        [0.5,"https://github.com/WebTechCNU/Kukulnyak_205_oit","","Out of time; bootstrap; sign in"]]},
     {"name":"Матвієнко Андрій Володимирович","points":[
         [1,"https://github.com/andriimatvienko/web/tree/main","https://andriimatvienko.github.io/web/","90 A"],
         [1,"","https://mellifluous-bunny-9da34a.netlify.app/",""],
