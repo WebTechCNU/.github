@@ -45,9 +45,9 @@ let students = `[
         [1,"https://github.com/NikkiVik/laba3","https://nikkivik.github.io/Lab3/",""],
         [0.8,"https://github.com/NikkiVik/lab4","https://nikkivik.github.io/lab4/","(3)Sign in modal"]]},
     {"name":"Присняк Євгенія","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Evgeniya10/Labs-1-3.","","Out of time, semantic html"],
+        [0.8,"https://github.com/Evgeniya10/Labs-1-3.","","Out of time"],
+        [0.5,"https://github.com/Evgeniya10/Labs-1-3.","","Out of time, gradients, scroll up, dropdown"],
         [0,"","",""]]},
     {"name":"Сворожинськи Володимир","points":[
         [1,"https://github.com/volodiacv/Laba1","",""],
@@ -67,7 +67,7 @@ let students = `[
     {"name":"Тарадай Крістіна","points":[
         [1,"https://github.com/Kris070704/lab1_Taradai","https://kris070704.github.io/lab1_Taradai/",""],
         [1,"https://github.com/Kris070704/Lab2_Taradai","https://kris070704.github.io/Lab2_Taradai/login.html",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Kris070704/Lab3_Taradai","https://kris070704.github.io/Lab3_Taradai/achievement.html","Out of time, gradients"],
         [0,"","",""]]},
     {"name":"Татарин Діана","points":[
         [1,"https://github.com/Dianatataryn/web_lab_1","https://dianatataryn.github.io/web_lab_1/",""],
