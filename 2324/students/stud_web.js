@@ -7,7 +7,6 @@ let students = `[
         [0,"","",""],
         0,""
     ]},
-    {"name":"Макар Марія(не впевнений)","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Мельник Володимир","points":[
         [1,"https://github.com/kap1yn/web_lab_1","https://kap1yn.github.io/web_lab_1/",""],
         [0,"","",""],
@@ -15,7 +14,13 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         0,""]},
-    {"name":"Міхалчан Максиміліан","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
+    {"name":"Міхалчан Максиміліан","points":[
+        [1,"https://github.com/MaximilianMMM/Laba__1__Web","https://maximilianmmm.github.io/Laba__1__Web/school.html",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""]},
     {"name":"Назарко Артем","points":[
         [1,"https://github.com/WebTechCNU/l.a.b_1","https://webtechcnu.github.io/l.a.b_1/",""],
         [0,"","",""],
@@ -26,11 +31,11 @@ let students = `[
     {"name":"Отрубчак Тетяна","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Ратушняк Наталія","points":[
         [1,"https://github.com/RNatali/Laboratory_1","https://rnatali.github.io/Laboratory_1/button.html#", ""],
+        [1,"https://github.com/RNatali/Laboratory-2","https://rnatali.github.io/Laboratory-2/file.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
-        [0,"","",""]
-        ,0,""
+        0,""
     ]},
     {"name":"Розновський Роман","points":[
         [0,"","",""],
@@ -42,7 +47,7 @@ let students = `[
     ]},
     {"name":"Рябов Олександр","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Сметанюк Михайло","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
-    {"name":"Тимчука Олександр","points":[
+    {"name":"Тимчук Олександр","points":[
         [0.5,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No presence on lab; No navigation; No hoverable info display;"],
         [0,"","",""],
         [0,"","",""],
@@ -51,7 +56,7 @@ let students = `[
         0,""]},
     {"name":"Токарчук Роман","points":[
         [1,"https://github.com/RoomToom/WEBLAB1.1","https://roomtoom.github.io/WEBLAB1.1/",""],
-        [0,"","",""],
+        [1,"https://github.com/RoomToom/weblab2","https://roomtoom.github.io/weblab2/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
