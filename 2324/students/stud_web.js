@@ -129,8 +129,8 @@ let students = `[
         0,""]},
     {"name":"Козуб Костянтин ","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Козуб Назар ","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
-    {"name":"Корня Петро","points":[
-        [1,"https://github.com/qhorsemorse/Js_lab1","https://qhorsemorse.github.io/Js_lab1/website3.0/side.html","Nice profile!"],
+    {"name":"Корня Петро (Tickle Timpson)","points":[
+        [1,"https://github.com/qhorsemorse/Js_lab1","https://qhorsemorse.github.io/Js_lab1/website3.0/side.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
