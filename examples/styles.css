@@ -18,6 +18,11 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin: 0.2rem;
+  }
+
+  .dropdown-contentt a{
+    margin: 0.2rem;
   }
   
   /* The dropdown container */
@@ -34,7 +39,7 @@ body{
     color: white;
     padding: 14px 16px;
     font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
+    margin: 0.2rem; /* Important for vertical align on mobile phones */
     border-radius: 5px;
     background-color: rgb(106, 181, 255) ;
   }
@@ -49,6 +54,7 @@ body{
     margin-left: 5px !important;
     font-family: inherit;
     font-size: 16px;
+    margin: 0.2rem;
   }
   
   /* Add a red background color to navbar links on hover */
