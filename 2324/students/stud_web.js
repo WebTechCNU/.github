@@ -82,7 +82,7 @@ let students = `[
         0,""
     ]},
     {"name":"Чеховський Станіслав","points":[
-        [0,"https://github.com/MORCHIK1/JS","https://morchik1.github.io/JS/index.html",""],
+        [1,"https://github.com/MORCHIK1/JS","https://morchik1.github.io/JS/index.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
