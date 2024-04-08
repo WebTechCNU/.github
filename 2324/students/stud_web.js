@@ -190,8 +190,20 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         0,""]},
-    {"name":"Боднарюк Максим (208)","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
-    {"name":"Бурлака Ірина","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
+    {"name":"Боднарюк Максим (208)","points":[
+        [1,"https://github.com/Bodnamax/Bodnariuk.lab1","https://bodnamax.github.io/Bodnariuk.lab1/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""]},
+    {"name":"Бурлака Ірина","points":[
+        [1,"https://github.com/burlakaIryna/lab-1","https://burlakairyna.github.io/lab-1/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""]},
     {"name":"Вахнюк Вікторія","points":[
         [1,"https://github.com/viktoriavahniuk17/Laba1VV","https://viktoriavahniuk17.github.io/Laba1VV/",""],
         [0,"","",""],
