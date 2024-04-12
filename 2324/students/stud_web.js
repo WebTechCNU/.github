@@ -228,7 +228,7 @@ let students = `[
     {"name":"Іванов Олексій","points":[
         [1,"","https://nimarchik.github.io/xwear/",""],
         [1,"","https://nimarchik.github.io/xwear/",""],
-        [0,"","",""],
+        [1,"","https://nimarchik.github.io/xwear/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
