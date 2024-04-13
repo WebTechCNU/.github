@@ -4,7 +4,7 @@ let students = `[
         [1,"https://github.com/imaksb/book-store-django","https://github.com/imaksb/book-store-django",""],
         [0,"","",""],
         [0,"","",""],
-        [0,"","",""],
+        [15,"","",""],
         0,""
     ]},
     {"name":"Мельник Володимир","points":[
@@ -78,7 +78,7 @@ let students = `[
         [1,"https://github.com/Kibooto/Lab2","https://kibooto.github.io/Lab2/", ""],
         [0,"","",""],
         [0,"","",""],
-        [0,"","",""],
+        [15,"","",""],
         0,""
     ]},
     {"name":"Чеховський Станіслав","points":[
