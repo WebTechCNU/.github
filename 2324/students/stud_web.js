@@ -165,7 +165,7 @@ let students = `[
     {"name":"Козловський Василь","points":[
         [1,"https://github.com/VasylKozlovskyi2022/laba1","https://vasylkozlovskyi2022.github.io/laba1/index.html",""],
         [1,"https://github.com/VasylKozlovskyi2022/lab_2","https://vasylkozlovskyi2022.github.io/lab_2/",""],
-        [0,"","",""],
+        [1,"https://github.com/VasylKozlovskyi2022/lab_3","https://vasylkozlovskyi2022.github.io/lab_3/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
