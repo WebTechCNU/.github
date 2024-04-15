@@ -206,7 +206,7 @@ let students = `[
         0,""]},
     {"name":"Вахнюк Вікторія","points":[
         [1,"https://github.com/viktoriavahniuk17/Laba1VV","https://viktoriavahniuk17.github.io/Laba1VV/",""],
-        [0.8,"https://github.com/viktoriavahniuk17/flower","https://viktoriavahniuk17.github.io/flower/","No in-person presentation"],
+        [1,"https://github.com/viktoriavahniuk17/flower","https://viktoriavahniuk17.github.io/flower/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -243,7 +243,7 @@ let students = `[
     {"name":"Сворожинськи Володимир","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Скіцько Віолєтта","points":[
         [1,"https://github.com/vviolettaaa/Laba1","https://vviolettaaa.github.io/Laba1/",""],
-        [0.8,"https://github.com/vviolettaaa/Fashion","https://vviolettaaa.github.io/Fashion/index.html","No in-person presentation"],
+        [1,"https://github.com/vviolettaaa/Fashion","https://vviolettaaa.github.io/Fashion/index.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
