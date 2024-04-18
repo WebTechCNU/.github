@@ -4,7 +4,7 @@ let students = `[
         [1,"https://github.com/imaksb/book-store-django","https://github.com/imaksb/book-store-django",""],
         [0,"","",""],
         [0,"","",""],
-        [15,"","",""],
+        [1,"","",""],
         0,""
     ]},
     {"name":"Мельник Володимир","points":[
@@ -60,7 +60,7 @@ let students = `[
         0,""]},
     {"name":"Сметанюк Михайло","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Тимчук Олександр","points":[
-        [0.5,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No presence on lab; No navigation; No hoverable info display;"],
+        [0.8,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No presence on lab; No navigation; No hoverable info display;"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -78,7 +78,7 @@ let students = `[
         [1,"https://github.com/Kibooto/Lab2","https://kibooto.github.io/Lab2/", ""],
         [0,"","",""],
         [0,"","",""],
-        [15,"","",""],
+        [1,"","",""],
         0,""
     ]},
     {"name":"Чеховський Станіслав","points":[
