@@ -60,7 +60,7 @@ let students = `[
         0,""]},
     {"name":"Сметанюк Михайло","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
     {"name":"Тимчук Олександр","points":[
-        [0.8,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No presence on lab; No navigation; No hoverable info display;"],
+        [0.8,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No navigation; No hoverable info display;"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
