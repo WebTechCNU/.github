@@ -211,7 +211,7 @@ let students = `[
         0,""]},
     {"name":"Бурлака Ірина","points":[
         [1,"https://github.com/burlakaIryna/lab-1","https://burlakairyna.github.io/lab-1/",""],
-        [0,"","",""],
+        [1,"https://github.com/maxvonlancaster/Iryna","https://maxvonlancaster.github.io/Iryna/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
