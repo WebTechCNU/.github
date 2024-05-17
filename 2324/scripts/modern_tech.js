@@ -48,15 +48,15 @@ function appendDataToTable() {
                     <br/>
                 <a href="`+ item.points[i][2] + `" target="_blank"
                     class="btn btn-`+ className + ` mb-1" role="button">Deployment link</a>
-            <br>
-            <p> `+item.points[i][3]+`</p>`);
+            <br>`);
             row.append(lab);
             i ++;
         }
         row.append($("<td>").text(item.points[4]));
         row.append($("<td>").text(item.points[5]));
         sum += parseInt(item.points[4]) + parseInt(item.points[5]);
-        row.append($("<td>").text(sum + item.points[6]));
+        row.append($("<td>").text(sum));
+        row.append($("<td>").html(`<b>` + item.points[6] + `</b>`));
 
         tableBody.append(row);
     });
