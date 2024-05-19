@@ -12,7 +12,7 @@ let students = `[
         [1,"https://github.com/kap1yn/lab_web_2","https://kap1yn.github.io/lab_web_2/",""],
         [1,"https://github.com/kap1yn/web_3","https://kap1yn.github.io/web_3/",""],
         [1,"https://github.com/bishkar/catalogue_api","https://kap1yn.github.io/web_3/",""],
-        [0,"","",""],
+        [1,"https://github.com/bishkar/fractals/","https://transcendent-toffee-5cee88.netlify.app/",""],
         0,""]},
     {"name":"Міхалчан Максиміліан","points":[
         [1,"https://github.com/MaximilianMMM/Laba__1__Web","https://maximilianmmm.github.io/Laba__1__Web/school.html",""],
@@ -30,8 +30,8 @@ let students = `[
         0,""]},
     {"name":"Отрубчак Тетяна","points":[
         [0.8,"https://github.com/taniaotr/laba1_web/tree/main","https://taniaotr.github.io/laba1_web/pages/index.html","GPT-generated; lab not presented offline"],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://taniaotr.github.io/web_lab23/","https://github.com/taniaotr/web_lab23",""],
+        [1,"https://taniaotr.github.io/web_lab23/","https://github.com/taniaotr/web_lab23",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -44,9 +44,9 @@ let students = `[
         0,""
     ]},
     {"name":"Розновський Роман","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://roznovskyi.github.io/weblab1/","https://roznovskyi.github.io/weblab1/","Late submit"],
+        [1,"https://roznovskyi.github.io/weblab23/","https://roznovskyi.github.io/weblab23/",""],
+        [1,"https://roznovskyi.github.io/weblab23/","https://roznovskyi.github.io/weblab23/",""],
         [0,"","",""],
         [0,"","",""],
         0,""
@@ -68,7 +68,7 @@ let students = `[
     {"name":"Тимчук Олександр","points":[
         [0.8,"https://github.com/TymchukAlex/Laba_1_WEB","https://tymchukalex.github.io/Laba_1_WEB/","No navigation; No hoverable info display;"],
         [0.8,"https://github.com/TymchukAlex/Laba_2_WEB","https://tymchukalex.github.io/Laba_2_WEB/","Some GPT code"],
-        [0,"","",""],
+        [0.5,"https://tymchukalex.github.io/Laba_3_WEB/","https://tymchukalex.github.io/Laba_3_WEB/","No presence on labs; no codebase link; no histograms"],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -96,8 +96,8 @@ let students = `[
         0,""]},
     {"name":"Шмігельська Анна","points":[
         [1,"https://github.com/annieshm/first-lab_Shmihelska","https://annieshm.github.io/first-lab_Shmihelska/",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/taniaotr/web_lab23","https://annieshm.github.io/Lab2-3/index.html",""],
+        [1,"https://github.com/taniaotr/web_lab23","https://annieshm.github.io/Lab2-3/index.html",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -127,7 +127,7 @@ let students = `[
     {"name":"Вадяк Валерій","points":[
         [0.8,"https://github.com/vachokvalerchik/vadiak_lab_1","https://vachokvalerchik.github.io/vadiak_lab_1/HTML/index.html","No presence on lab; (4) Hoverable logo; Bad naming practice (task1.js, task2.js etc.)"],
         [1,"https://github.com/vachokvalerchik/vachokvalerchik-vadiak_lab_2","https://vachokvalerchik.github.io/vachokvalerchik-vadiak_lab_2/LAB%202/HTML/index.html",""],
-        [0,"","",""],
+        [1,"https://vachokvalerchik.github.io/vadiak_lab_3/HTML/shop.html","https://vachokvalerchik.github.io/vadiak_lab_3/HTML/shop.html",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -211,14 +211,14 @@ let students = `[
     {"name":"Боднарюк Максим (208)","points":[
         [1,"https://github.com/Bodnamax/Bodnariuk.lab1","https://bodnamax.github.io/Bodnariuk.lab1/",""],
         [1,"https://github.com/Bodnamax/BodnariukLab2.git","https://bodnamax.github.io/BodnariukLab2/",""],
-        [0,"","",""],
+        [1,"https://bodnamax.github.io/Bodnariuk_Lab3/","https://bodnamax.github.io/Bodnariuk_Lab3/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
     {"name":"Бурлака Ірина","points":[
         [1,"https://github.com/burlakaIryna/lab-1","https://burlakairyna.github.io/lab-1/",""],
         [1,"https://github.com/maxvonlancaster/Iryna","https://maxvonlancaster.github.io/Iryna/",""],
-        [0,"","",""],
+        [1,"https://github.com/burlakaIryna/lab3","https://maxvonlancaster.github.io/lab3-Iryna/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -233,7 +233,7 @@ let students = `[
         [1,"https://github.com/Andriu3245/lab1","https://andriu3245.github.io/lab1/",""],
         [1,"https://github.com/Andriu3245/lab2","https://andriu3245.github.io/lab2/",""],
         [1,"https://github.com/Andriu3245/lab3","https://andriu3245.github.io/lab3/",""],
-        [0,"","",""],
+        [1,"https://andriu3245.github.io/labs4/","https://andriu3245.github.io/labs4/",""],
         [0,"","",""],
         0,""]},
     {"name":"Власійчук Тетяна","points":[
@@ -259,8 +259,8 @@ let students = `[
         0,""]},
     {"name":"Коханюк Станіслав","points":[
         [1,"https://github.com/staaskokhaniukk/lab_1","https://staaskokhaniukk.github.io/lab_1/",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://staaskokhaniuk.github.io/Lab2-3/","https://staaskokhaniuk.github.io/Lab2-3/",""],
+        [1,"https://staaskokhaniuk.github.io/Lab2-3/","https://staaskokhaniuk.github.io/Lab2-3/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -278,11 +278,17 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         0,""]},
-    {"name":"Стужук Владислав","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
+    {"name":"Стужук Владислав","points":[
+        [0.5,"","https://stuzhukv.github.io/llab1/","Stolen from Скіцько Віолєтта"],
+        [0.5,"","https://stuzhukv.github.io/laab2/",""],
+        [0.5,"","https://stuzhukv.github.io/laab2/",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""]},
     {"name":"Тарадай Крістіна","points":[
         [1,"https://github.com/Kris070704/lab_1_Taradai","https://kris070704.github.io/lab_1_Taradai/lab1-Taradai/index",""],
         [1,"https://github.com/Kris070704/lab_2_taradai","https://kris070704.github.io/lab_2_taradai/",""],
-        [0,"","",""],
+        [1,"https://github.com/Kris070704/lab3","https://kris070704.github.io/lab3/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -324,7 +330,7 @@ let students = `[
         {"name":"Басараба Віталій","points":[
             [1,"https://github.com/maxvonlancaster/Lab-1-","https://maxvonlancaster.github.io/Lab-1-/",""],
             [1,"https://github.com/Valience/labaratorna2","https://valience.github.io/labaratorna2/#",""],
-            [0,"","",""],
+            [1,"https://valience.github.io/labaratorna3","https://github.com/Valience/labaratorna3",""],
             [0,"","",""],
             [0,"","",""],
             0,""]},
