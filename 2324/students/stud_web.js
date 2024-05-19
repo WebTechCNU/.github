@@ -280,8 +280,8 @@ let students = `[
         0,""]},
     {"name":"Стужук Владислав","points":[
         [0.5,"","https://stuzhukv.github.io/llab1/","Stolen from Скіцько Віолєтта"],
-        [0.5,"","https://stuzhukv.github.io/laab2/",""],
-        [0.5,"","https://stuzhukv.github.io/laab2/",""],
+        [1,"","https://stuzhukv.github.io/laab2/",""],
+        [0.5,"","https://stuzhukv.github.io/laab2/","No cart; no modals; no histogram"],
         [0,"","",""],
         [0,"","",""],
         0,""]},
