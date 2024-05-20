@@ -130,7 +130,7 @@ let students = `[
         [0.8,"https://github.com/KreshtanovychNikita/BetterCallUs","https://github.com/KreshtanovychNikita/BetterCallUs",""],
         [0.8,"https://github.com/KreshtanovychNikita/BetterCallUs","https://github.com/KreshtanovychNikita/BetterCallUs",""],
         [0,"","",""],
-        0,30,"85 B"
+        0,30,"90 A"
     ]},
     {"name":"Миронюк Нестор Юрійович","points":[
         [0,"","",""],

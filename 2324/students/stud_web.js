@@ -13,14 +13,14 @@ let students = `[
         [1,"https://github.com/kap1yn/web_3","https://kap1yn.github.io/web_3/",""],
         [1,"https://github.com/bishkar/catalogue_api","https://kap1yn.github.io/web_3/",""],
         [1,"https://github.com/bishkar/fractals/","https://transcendent-toffee-5cee88.netlify.app/",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Міхалчан Максиміліан","points":[
         [1,"https://github.com/MaximilianMMM/Laba__1__Web","https://maximilianmmm.github.io/Laba__1__Web/school.html",""],
         [1,"https://github.com/MaximilianMMM/WEB_Laba_2","https://maximilianmmm.github.io/WEB_Laba_2/",""],
         [1,"https://github.com/MaximilianMMM/WEB_Laba_3","https://maximilianmmm.github.io/WEB_Laba_3/",""],
         [1,"https://github.com/MaximilianMMM/Laba_4","https://maximilianmmm.github.io/Laba_4/",""],
         [0,"","",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Назарко Артем","points":[
         [1,"https://github.com/WebTechCNU/l.a.b_1","https://webtechcnu.github.io/l.a.b_1/",""],
         [1,"https://github.com/WebTechCNU/Laba_2.git","https://webtechcnu.github.io/Laba_2/",""],
@@ -85,7 +85,7 @@ let students = `[
         [1,"https://github.com/Kibooto/Lab3","",""],
         [1,"https://github.com/Kibooto/Lab4","",""],
         [1,"","",""],
-        0,""
+        0,"100 A"
     ]},
     {"name":"Чеховський Станіслав","points":[
         [1,"https://github.com/MORCHIK1/JS","https://morchik1.github.io/JS/index.html",""],
@@ -158,7 +158,7 @@ let students = `[
         [1,"https://github.com/ZhalobaPav/3","https://zhalobapav.github.io/3/products.html",""],
         [0,"","",""],
         [0,"","",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Завалецький Владислав","points":[
         [1,"https://github.com/GarniyNegro/OIT_1","https://garniynegro.github.io/OIT_1/lab1/lab1.1/index.html","Please, no GPT in the future"],
         [1,"https://github.com/GarniyNegro/Web_2lab","https://garniynegro.github.io/Web_2lab/",""],
@@ -235,7 +235,7 @@ let students = `[
         [1,"https://github.com/Andriu3245/lab3","https://andriu3245.github.io/lab3/",""],
         [1,"https://andriu3245.github.io/labs4/","https://andriu3245.github.io/labs4/",""],
         [0,"","",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Власійчук Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab.1","https://vlasiichuktetiana.github.io/lab.1/",""],
         [1,"https://github.com/vlasiichuktetiana/lab_2","https://vlasiichuktetiana.github.io/lab_2/",""],
@@ -256,7 +256,7 @@ let students = `[
         [1,"","https://nanadrama.github.io/online-shop-simple/",""],
         [1,"","https://nanadrama.github.io/online-shop-simple/",""],
         [0,"","",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Коханюк Станіслав","points":[
         [1,"https://github.com/staaskokhaniukk/lab_1","https://staaskokhaniukk.github.io/lab_1/",""],
         [1,"https://staaskokhaniuk.github.io/Lab2-3/","https://staaskokhaniuk.github.io/Lab2-3/",""],
@@ -305,7 +305,7 @@ let students = `[
         [1,"https://github.com/Nastya3333333333333/Vinyl2-3","https://nastya3333333333333.github.io/Vinyl2-3/index%20.html",""],
         [1,"https://github.com/Nastya3333333333333/Vinyl2-3","https://nastya3333333333333.github.io/Vinyl2-3/index%20.html",""],
         [0,"","",""],
-        0,""]},
+        0,"; 100 A"]},
     {"name":"Хімчинський Володимир","points":[
         [1,"https://github.com/Blazewozy/laba1_2","https://thunderous-toffee-df4d23.netlify.app/#contact",""],
         [1,"https://github.com/Blazewozy/laba1_2","https://thunderous-toffee-df4d23.netlify.app/#contact",""],
