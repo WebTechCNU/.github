@@ -239,7 +239,7 @@ let students = `[
     {"name":"Власійчук Тетяна","points":[
         [1,"https://github.com/vlasiichuktetiana/lab.1","https://vlasiichuktetiana.github.io/lab.1/",""],
         [1,"https://github.com/vlasiichuktetiana/lab_2","https://vlasiichuktetiana.github.io/lab_2/",""],
-        [0,"","",""],
+        [1,"https://github.com/vlasiichuktetiana/lab_3","https://vlasiichuktetiana.github.io/lab_3/",""],
         [0,"","",""],
         [0,"","",""],
         0,""]},
@@ -334,7 +334,13 @@ let students = `[
             [0,"","",""],
             [0,"","",""],
             0,""]},
-        {"name":"Гаць Іван","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
+        {"name":"Гаць Іван","points":[
+            [0.8,"https://github.com/1JustJake1/lab1","https://1justjake1.github.io/lab1/","Put of time; GPT generated, no presentation offline"],
+            [0.8,"https://github.com/1JustJake1/lab2","https://1justjake1.github.io/lab2/","GPT generated, no presentation offline"],
+            [0.8,"https://github.com/1JustJake1/lab3","https://1justjake1.github.io/lab3/","GPT generated, no presentation offline"],
+            [0,"","",""],
+            [0,"","",""],
+            0,""]},
         {"name":"Герасименко Роман(індивідуальник)","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
         {"name":"Гладчук Денис","points":[
             [1,"https://github.com/whyareyousilent/weblab1","https://whyareyousilent.github.io/weblab1/",""],
@@ -349,8 +355,8 @@ let students = `[
         {"name":"Ільницький Дмитро","points":[[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],[0,"","",""],0,""]},
         {"name":"Каліструк Максим","points":[
             [1,"https://github.com/MGCc0/WebLab1","https://mgcc0.github.io/WebLab1/Lab1Maks/",""],
-            [0,"","",""],
-            [0,"","",""],
+            [1,"https://mgcc0.github.io/lab2.3/index.html","https://mgcc0.github.io/lab2.3/index.html",""],
+            [1,"https://mgcc0.github.io/lab2.3/index.html","https://mgcc0.github.io/lab2.3/index.html",""],
             [0,"","",""],
             [0,"","",""],
             0,""]},

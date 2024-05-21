@@ -53,7 +53,7 @@ let students = `[
         [0.8,"https://github.com/r-yev/SapientLeads","https://github.com/r-yev/SapientLeads",""],
         [0.8,"https://github.com/r-yev/SapientLeads","https://github.com/r-yev/SapientLeads",""],
         [0.8,"https://github.com/r-yev/SapientLeads","https://github.com/r-yev/SapientLeads",""],
-        0,30,"85 B"
+        0,30,"90 A"
     ]}, 
     {"name":"Резнік Володимир Русланович","points":[
         [1,"https://github.com/reznikkvova/fmi_kval","https://github.com/reznikkvova/fmi_kval",""],
@@ -74,7 +74,7 @@ let students = `[
         [1,"https://github.com/WebTechCNU/modern-web-labs-atomic/commit/906aa3ec6a44e61730f972e1aab00cd6aeac415c","",""],
         [1,"https://github.com/WebTechCNU/modern-web-labs-atomic/commit/f3f473fe1282dc142a417607e998c7c64375b1a0","",""],
         [0,"","",""],
-        5,26,"95 A"
+        5,26,"98 A"
     ]},
     {"name":"Селін Денис Сергійович","points":[
         [0,"","",""],
