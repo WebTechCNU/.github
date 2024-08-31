@@ -6,8 +6,8 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Боровскіх Євгеній","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Texofff/lab1","https://texofff.github.io/lab1/",""],
+        [1,"https://github.com/Texofff/lab0","https://texofff.github.io/lab0/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
