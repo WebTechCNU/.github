@@ -55,7 +55,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Косован Іван-Валентин","points":[
-        [0,"","",""],
+        [0.5,"https://github.com/valentyn-oss/oit-lab1","https://github.com/valentyn-oss/oit-lab1","No deploy link"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},   
