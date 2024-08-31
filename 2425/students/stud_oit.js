@@ -35,7 +35,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Діліон Іван-Владислав","points":[
-        [0,"","",""],
+        [1,"https://github.com/dzidzio/lab1","https://dzidzio.github.io/lab1/","","!!!"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -90,12 +90,12 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},   
     {"name":"Гарвасюк Оксана","points":[
-        [0,"","",""],
+        [1,"https://github.com/oksankah/public_html","https://oksankah.github.io/public_html/","!!!"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Голбан Уляна","points":[
-        [0,"","",""],
+        [1,"https://github.com/golbanulyana/Laboratory-1/","https://golbanulyana.github.io/Laboratory-1/homepage.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -104,9 +104,9 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
-    {"name":"Григор'єв Євген","points":[
-        [0,"","",""],
-        [0,"","",""],
+    {"name":"Григор'єв Євгеній","points":[
+        [1,"https://github.com/eugenius03/hostit","https://eugenius03.github.io/hostit/index.html","", "!!!"],
+        [1,"https://github.com/eugenius03/lab2","https://eugenius03.github.io/lab2/training/",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Грималюк Сніжана","points":[
@@ -120,7 +120,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},   
     {"name":"Заєць Марія","points":[
-        [0,"","",""],
+        [1,"https://github.com/zaietsmary/lab1","https://zaietsmary.github.io/lab1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -130,8 +130,8 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Клипак Анастасія","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/nastyaklypak/lab_1","https://nastyaklypak.github.io/lab_1/","", "!!!"],
+        [1,"https://github.com/nastyaklypak/lab_2","https://nastyaklypak.github.io/lab_2/",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Коба Сергій","points":[
@@ -195,7 +195,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Сливка Назар","points":[
-        [0,"","",""],
+        [1,"https://github.com/nagibator203666/practica-1","https://nagibator203666.github.io/practica-1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},

@@ -45,7 +45,10 @@ function appendDataToTable() {
             }
             lab.append(`<br/><a href="` + item.points[i][1] + `" target="_blank"
                 class="btn btn-`+ className + ` mb-1" role="button">Codebase</a>
-            <br>`);
+                <a href="`+ item.points[i][2] + `" target="_blank"
+                    class="btn btn-`+ className + ` mb-1" role="button">Deployment link</a>
+            <br>
+            <p> `+item.points[i][3]+`</p>`);
             row.append(lab);
             i ++;
         }
