@@ -98,7 +98,7 @@ let students = `[
         [1,"https://github.com/golbanulyana/Laboratory-1/","https://golbanulyana.github.io/Laboratory-1/homepage.html",""],
         [0,"","",""],
         [0,"","",""],
-        [0,"","",""]]},
+        [0,"","",""], [5]]},
     {"name":"Григораш Ігор","points":[
         [0,"","",""],
         [0,"","",""],
@@ -108,7 +108,7 @@ let students = `[
         [1,"https://github.com/eugenius03/hostit","https://eugenius03.github.io/hostit/index.html","", "!!!"],
         [1,"https://github.com/eugenius03/lab2","https://eugenius03.github.io/lab2/training/",""],
         [0,"","",""],
-        [0,"","",""]]},
+        [0,"","",""], [5]]},
     {"name":"Грималюк Сніжана","points":[
         [0,"","",""],
         [0,"","",""],
