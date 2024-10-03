@@ -31,8 +31,8 @@ let students = `[
         [0,"","",""]]},
     {"name":"Мельник Ольга","points":[
         [1,"https://github.com/Olia1802/Bootstrap","https://olia1802.github.io/Bootstrap/","Great Job!"],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Olia1802/Project0","https://olia1802.github.io/Project0/",""],
+        [1,"https://github.com/Olia1802/Angular","https://github.com/Olia1802/Angular",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Мішин Олег","points":[
@@ -42,7 +42,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Раренко Анастасія","points":[
-        [0,"","",""],
+        [1,"https://github.com/wanesssssty/lab1_bootsrap","https://wanesssssty.github.io/lab1_bootsrap/","Great!"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -73,7 +73,7 @@ let students = `[
         [0,"","",""]]},
     {"name":"Бурдужук Інна","points":[
         [1,"https://github.com/SweetPomegranate/bootstrap1","https://sweetpomegranate.github.io/bootstrap1/",""],
-        [0,"","",""],
+        [1,"https://sweetpomegranate.github.io/react/dist/index.html","https://sweetpomegranate.github.io/react/dist/index.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -84,8 +84,8 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Галушка Віктор","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/ViktorHalushka/Lab_1","https://viktorhalushka.github.io/Lab_1/",""],
+        [1,"https://viktorhalushka.github.io/Lab_2/","https://github.com/ViktorHalushka/Lab_2",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -102,7 +102,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Жалоба Павло","points":[
-        [0,"","",""],
+        [1,"https://github.com/ToTheTermsOfService/lab1","https://github.com/ToTheTermsOfService/lab1",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -129,7 +129,7 @@ let students = `[
         [1,"https://github.com/WhoIsTheBot/BootStrapOne","https://whoisthebot.github.io/BootStrapOne/",""],
         [1,"https://github.com/WhoIsTheBot/To-Do-List-JQuery","https://whoisthebot.github.io/To-Do-List-JQuery/",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/WhoIsTheBot/University-ReactTS","https://soft-dango-20afec.netlify.app/",""],
         [0,"","",""]]},
     {"name":"Козуб Костянтин","points":[
         [0,"","",""],
@@ -163,7 +163,7 @@ let students = `[
         [0,"","",""]]},
     {"name":"Малованюк Станіслав","points":[
         [1,"https://github.com/LUMA002/LUMA_shop_LAB4","https://luma002.github.io/LUMA_shop_LAB4/","Great Job!"],
-        [0,"","",""],
+        [1,"https://github.com/LUMA002/js_fram_lab2","https://luma002.github.io/js_fram_lab2/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
