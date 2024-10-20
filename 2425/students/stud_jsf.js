@@ -48,14 +48,14 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Агієв Микола (301)","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Kolya3578/JS-frame-lab1","https://kolya3578.github.io/JS-frame-lab1/index.html",""],
+        [1,"https://github.com/Kolya3578/JS-frame-lab2","https://kolya3578.github.io/JS-frame-lab2/index.html",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Апопій Георгій","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/goshkaaaa/lab1","https://goshkaaaa.github.io/lab1/",""],
+        [0.5,"https://github.com/goshkaaaa/lab2","https://goshkaaaa.github.io/lab2/","No offline presentation, no styles, no input functionality"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -86,8 +86,8 @@ let students = `[
     {"name":"Галушка Віктор","points":[
         [1,"https://github.com/ViktorHalushka/Lab_1","https://viktorhalushka.github.io/Lab_1/",""],
         [1,"https://viktorhalushka.github.io/Lab_2/","https://github.com/ViktorHalushka/Lab_2",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/ViktorHalushka/Lab_3_angular","",""],
+        [1,"https://github.com/ViktorHalushka/Lab_4_react","",""],
         [0,"","",""]]},
     {"name":"Грищенко Анастасія","points":[
         [0,"","",""],
@@ -99,13 +99,13 @@ let students = `[
         [1,"https://github.com/Makshutsuliak/web_bootstrap4","https://makshutsuliak.github.io/web_bootstrap/bootstrap/index.html",""],
         [1,"https://makshutsuliak.github.io/todo_list/project0/index.html","https://makshutsuliak.github.io/todo_list/project0/index.html",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Makshutsuliak/lab_react","",""],
         [0,"","",""]]},
     {"name":"Жалоба Павло","points":[
         [1,"https://github.com/ToTheTermsOfService/lab1","https://github.com/ToTheTermsOfService/lab1",""],
         [1,"https://github.com/ToTheTermsOfService/lb2","https://github.com/ToTheTermsOfService/lb2",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/ToTheTermsOfService/lb4","",""],
         [0,"","",""]]},
     {"name":"Завалецький Владислав","points":[
         [0,"","",""],
@@ -124,7 +124,7 @@ let students = `[
         [1,"https://github.com/ColdCapitan/jQuery","https://coldcapitan.github.io/jQuery/",""],
         [1,"https://github.com/ColdCapitan/React","https://superb-churros-730143.netlify.app/#info",""],
         [0,"","",""],
-        [0,"","",""]]},
+        [1,"https://github.com/ColdCapitan/MERN","https://chipper-kleicha-30c78a.netlify.app",""]]},
     {"name":"Козловський Василь","points":[
         [1,"https://github.com/WhoIsTheBot/BootStrapOne","https://whoisthebot.github.io/BootStrapOne/",""],
         [1,"https://github.com/WhoIsTheBot/To-Do-List-JQuery","https://whoisthebot.github.io/To-Do-List-JQuery/",""],
@@ -133,8 +133,8 @@ let students = `[
         [1,"https://github.com/WhoIsTheBot/mern_university","https://github.com/WhoIsTheBot/mern_university",""]]},
     {"name":"Козуб Костянтин","points":[
         [1,"https://github.com/37Lucky37/Lab1_Bootstrap.git","https://37lucky37.github.io/Lab1_Bootstrap/",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/37Lucky37/Lab2_ToDo_jQuery","https://37lucky37.github.io/Lab2_ToDo_jQuery",""],
+        [1,"https://github.com/37Lucky37/Lab3_Angular","",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Козуб Назар","points":[
@@ -153,7 +153,7 @@ let students = `[
         [1,"https://github.com/DeFrag73/Project","https://defrag73.github.io/Project/","Great job!"],
         [1,"https://github.com/DeFrag73/to-do-app","https://defrag73.github.io/to-do-app/",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/DeFrag73/lab-4-react","",""],
         [0,"","",""]]},
     {"name":"Трипадуш Богдан","points":[
         [1,"https://argasdtiger.github.io/Bookish-Vanilla-JS-/src/index.html","https://github.com/ArgasDTiger/Researching-Wines--Vinho-Verde-","Great Job!"],
@@ -178,7 +178,7 @@ let students = `[
         [1,"https://github.com/emmastrienko/todo-list-jquery","https://emmastrienko.github.io/todo-list-jquery/",""],
         [1,"https://github.com/emmastrienko/first-angular-project","https://github.com/emmastrienko/first-angular-project",""],
         [1,"https://github.com/emmastrienko/simple-todo-app-react","https://github.com/emmastrienko/simple-todo-app-react",""],
-        [0,"","",""]]},
+        [1,"https://github.com/emmastrienko/note-taking-app-mern","",""]]},
     {"name":"Лисенко Ніколя","points":[
         [0,"","",""],
         [0,"","",""],
@@ -198,15 +198,21 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Романко Андрій","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Starks12/lab1_bootstrap","https://starks12.github.io/lab1_bootstrap/",""],
+        [1,"https://github.com/Starks12/lab2_jquery","https://starks12.github.io/lab2_jquery/",""],
+        [0.8,"https://github.com/Starks12/lab3_angular","https://starks12.github.io/lab3_angular","No offline presentation"],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Шахов Микита","points":[
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
+        [0,"","",""],
+        [0,"","",""]]},
+    {"name":"Марчук","points":[
+        [0.8,"https://github.com/Andiry-sys/to-do-list","","No offline presentation, no deploy link"],
+        [0,"","",""],
+        [0.8,"https://github.com/Andiry-sys/to-do-list","","No offline presentation, no deploy link"],
         [0,"","",""],
         [0,"","",""]]},
     {"name":" ","points":[
