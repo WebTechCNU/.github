@@ -40,8 +40,8 @@ let students = `[
         [1,"https://github.com/dzidzio/lab3","https://dzidzio.github.io/lab3/",""],
         [0,"","",""]]},
     {"name":"Дубчак Богдан","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Dub0g/oit_lab_1","https://dub0g.github.io/oit_lab_1/",""],
+        [1,"https://github.com/Dub0g/lab_2","https://dub0g.github.io/lab_2/",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Іванов Микита","points":[
@@ -120,7 +120,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Дубчак Олександр","points":[
-        [1,"https://github.com/Dub0g/oit_lab_1","https://dub0g.github.io/oit_lab_1/",""],
+        [0,"","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},   
