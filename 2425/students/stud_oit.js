@@ -103,7 +103,7 @@ let students = `[
         [1,"https://github.com/golbanulyana/Laboratory-1/","https://golbanulyana.github.io/Laboratory-1/homepage.html",""],
         [1,"https://github.com/GolbanUlyana/lab2.","https://golbanulyana.github.io/lab2./",""],
         [1,"https://github.com/GolbanUlyana/lab3","https://golbanulyana.github.io/lab3/",""],
-        [1,"https://github.com/GolbanUlyana/Lab-4","https://golbanulyana.github.io/Lab-4/",""], [5]]},
+        [1,"https://github.com/GolbanUlyana/Lab-4","https://golbanulyana.github.io/Lab-4/",""], [0, "!"]]},
     {"name":"Григораш Ігор","points":[
         [0,"","",""],
         [0,"","",""],
@@ -113,7 +113,7 @@ let students = `[
         [1,"https://github.com/eugenius03/hostit","https://eugenius03.github.io/hostit/index.html","", "!!!"],
         [1,"https://github.com/eugenius03/lab2","https://eugenius03.github.io/lab2/training/",""],
         [1,"https://github.com/eugenius03/lab3","https://eugenius03.github.io/lab3/",""],
-        [1,"https://github.com/eugenius03/lab4","https://eugenius03.github.io/lab4/",""], [5]]},
+        [1,"https://github.com/eugenius03/lab4","https://eugenius03.github.io/lab4/",""], [0, "!"]]},
     {"name":"Грималюк Сніжана","points":[
         [0,"","",""],
         [0,"","",""],
