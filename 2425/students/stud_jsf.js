@@ -158,7 +158,7 @@ let students = `[
     {"name":"Трипадуш Богдан","points":[
         [1,"https://argasdtiger.github.io/Bookish-Vanilla-JS-/src/index.html","https://github.com/ArgasDTiger/Researching-Wines--Vinho-Verde-","Great Job!"],
         [1,"https://github.com/ArgasDTiger/Frameworks-Lab-2","https://argasdtiger.github.io/Frameworks-Lab-2/",""],
-        [0.8,"https://github.com/ArgasDTiger/Bookish/tree/main/client","https://github.com/ArgasDTiger/Bookish/tree/main/client","Note (maybe to myself): I'd like to see it"],
+        [1,"https://github.com/ArgasDTiger/Bookish/tree/main/client","https://github.com/ArgasDTiger/Bookish/tree/main/client",""],
         [1,"https://github.com/ArgasDTiger/Frameworks-Lab-4","https://github.com/ArgasDTiger/Frameworks-Lab-4",""],
         [1,"https://github.com/ArgasDTiger/Frameworks-Lab-5","https://frameworks-lab-5.onrender.com","Thanks for deploy, extra credit"]]},
     {"name":"Малованюк Станіслав","points":[
