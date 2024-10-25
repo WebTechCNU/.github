@@ -247,7 +247,7 @@ let students = `[
         [0,"","",""]]},
     {"name":"Якубовський Максим","points":[
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Yakubovskyimaksym/Labaragory-2","https://yakubovskyimaksym.github.io/Labaragory-2/",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Яремчук Софія","points":[
