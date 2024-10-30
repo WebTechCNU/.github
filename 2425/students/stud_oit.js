@@ -140,8 +140,8 @@ let students = `[
         [1,"https://github.com/nastyaklypak/lab3","https://github.com/nastyaklypak/lab3","No deploy, but presented offline ✅"],
         [1,"https://github.com/nastyaklypak/lab_4","https://nastyaklypak.github.io/lab_4/",""]]},
     {"name":"Коба Сергій","points":[
+        [1,"https://github.com/qenzai/html-css-js","https://qenzai.github.io/html-css-js/",""],
         [1,"https://github.com/qenzai/laba-2","https://qenzai.github.io/laba-2/",""],
-        [0,"","",""],
         [0.8,"https://github.com/qenzai/laba-3","https://qenzai.github.io/laba-3/index.html","Scroll-up button is present when on top of page; Questionary form is not ideal"],
         [0.8,"https://github.com/qenzai/laba-4","https://qenzai.github.io/laba-4/?","No modal window"]]},
     {"name":"Ковальчук Роман","points":[
@@ -191,10 +191,10 @@ let students = `[
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Назаров Нікіта","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [1,"https://github.com/skrvice/oitlabfull","https://maxvonlancaster.github.io/oitlabfull/",""],
+        [0.8,"https://github.com/skrvice/oitlabfull","https://maxvonlancaster.github.io/oitlabfull/","No root variables"],
+        [0.8,"https://github.com/skrvice/oitlabfull","https://maxvonlancaster.github.io/oitlabfull/","No scroll up, no image scaling"],
+        [0.5,"https://github.com/skrvice/oitlabfull","https://maxvonlancaster.github.io/oitlabfull/","No bootstrap, no modal window"]]},
     {"name":"Рубаняк Вадим","points":[
         [1,"https://github.com/ravel536/OIT_1_lab/tree/main","https://ravel536.github.io/OIT_1_lab/",""],
         [0,"","",""],
