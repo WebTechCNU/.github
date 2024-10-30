@@ -53,6 +53,11 @@ function appendDataToTable() {
             row.append(lab);
             i ++;
         }
+        if(item.points[5]){
+            row.append($("<td>").text(item.points[5][0]));
+        }else{
+            row.append($("<td>").text(""));
+        }
         row.append($("<td>").text(sum));
 
         tableBody.append(row);
