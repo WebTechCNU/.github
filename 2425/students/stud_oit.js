@@ -72,9 +72,9 @@ let students = `[
         [0,"","",""]]},
     {"name":"Миленко Юрій","points":[
         [0.8,"https://github.com/agent2897/oit","","No deploy"],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [1,"https://github.com/agent2897/laboratorna-2","https://agent2897.github.io/laboratorna-2/%D0%AE%D1%80%D0%B0%202%20%D0%BB%D0%B0%D0%B1%D0%B0/",""],
+        [1,"https://github.com/agent2897/laba3","https://agent2897.github.io/laba3/",""],
+        [0.5,"https://github.com/agent2897/laba-4","https://agent2897.github.io/laba-4/","No bootstrap, no modal window"]]},
     {"name":"Опрюк Дмитро","points":[
         [0,"","",""],
         [0,"","",""],
@@ -232,12 +232,12 @@ let students = `[
     {"name":"Соловйов Володимир","points":[
         [0.8,"https://github.com/SoloviovVolodymyr/Laboratory-1","https://soloviovvolodymyr.github.io/Laboratory-1/Laboratory/","Hyperlinks not working"],
         [0.8,"https://github.com/SoloviovVolodymyr/Laboratory2","","No deploy, otherwise all ok"],
-        [0,"","",""],
+        [0.8,"https://github.com/SoloviovVolodymyr/Laboratory-3","https://soloviovvolodymyr.github.io/Laboratory-3/index.html","No scroll up"],
         [0,"","",""]]},
     {"name":"Тагільцев Олександр","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/AlexandrTahiltsev/lab1-208","https://maxvonlancaster.github.io/lab1-208/lab1%20208%20tahiltsev/index.html","Late submition"],
+        [0.5,"https://github.com/AlexandrTahiltsev/lab2","","No deploy"],
+        [0.5,"https://github.com/AlexandrTahiltsev/lab3","","No deploy"],
         [0,"","",""]]},
     {"name":"Тимчук Юлія","points":[
         [1,"https://github.com/yuliiatymchuk07/lab1","https://yuliiatymchuk07.github.io/lab1/",""],
@@ -262,7 +262,7 @@ let students = `[
         [0.8,"https://github.com/IvanShevchuk208/Lab4.git","https://steady-figolla-18bac5.netlify.app/","No adaptive design; no bootstrap"]
         , 0, ["Auto"]]},
     {"name":"Якубовський Максим","points":[
-        [0,"","",""],
+        [0.8,"https://github.com/Yakubovskyimaksym/Labaratory1","","No deploy, late submition"],
         [1,"https://github.com/Yakubovskyimaksym/Labaragory-2","https://yakubovskyimaksym.github.io/Labaragory-2/",""],
         [0,"","",""],
         [0,"","",""]]},
