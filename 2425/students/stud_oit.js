@@ -184,7 +184,7 @@ let students = `[
         [1,"https://github.com/makson798/laba-2/tree/main","https://makson798.github.io/laba-2/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D1%8E%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%B0%202%20%D0%B7%20%D0%9E%D0%86%D0%A2/",""],
         [0.8,"https://github.com/makson798/Lab-3/tree/main/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D1%8E%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%B0%203%20%D0%B7%20%D0%9E%D0%86%D0%A2","https://makson798.github.io/Lab-3/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D1%8E%D0%BA%20%D0%BB%D0%B0%D0%B1%D0%B0%203%20%D0%B7%20%D0%9E%D0%86%D0%A2/?",
         "No scroll to top button"],
-        [0,"","",""]]},
+        [0.8,"https://github.com/makson798/laba-4","https://makson798.github.io/laba-4/#","Minor margins issues"]]},
     {"name":"Дашкевич Богдан","points":[
         [0.5,"https://github.com/bogdan23321/Laboratory1","","No deploy, no offline presentation"],
         [0.5,"https://github.com/bogdan23321/lab2","","No deploy, no offline presentation"],
@@ -268,7 +268,7 @@ let students = `[
         [0,"","",""]]},
     {"name":"Яремчук Софія","points":[
         [0.8,"https://github.com/Yaremchukk/lab1","https://yaremchukk.github.io/lab1/%D1%81%D0%BE%D1%84%D1%96%D1%8F/#","Late submition"],
-        [1,"https://github.com/Yakubovskyimaksym/Labaragory-2","https://yakubovskyimaksym.github.io/Labaragory-2/",""],
+        [0.8,"https://github.com/Yaremchukk/-2","https://yaremchukk.github.io/-2/html/","No root variables"],
         [0,"","",""],
         [0,"","",""]]}
 ]`;
