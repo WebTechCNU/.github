@@ -165,7 +165,7 @@ let students = `[
         [1,"https://github.com/LUMA002/LUMA_shop_LAB4","https://luma002.github.io/LUMA_shop_LAB4/","Great Job!"],
         [1,"https://github.com/LUMA002/js_fram_lab2","https://luma002.github.io/js_fram_lab2/",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/LUMA002/js_fram_lab4","https://github.com/LUMA002/js_fram_lab4",""],
         [0,"","",""]]},
     {"name":"Лучик Іван","points":[
         [1,"https://github.com/LychokZZ/boostlab1","https://lychokzz.github.io/boostlab1/","Great Job!"],
