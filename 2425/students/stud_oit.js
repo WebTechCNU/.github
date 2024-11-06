@@ -133,7 +133,7 @@ let students = `[
         [0.8,"https://github.com/illusions333/lab1","","Late submition"],
         [0,"","",""],
         [0.8,"https://github.com/illusions333/lab3","https://illusions333.github.io/lab3/","No image hoverable behaviour"],
-        [0.8,"https://github.com/illusions333/lab4","https://illusions333.github.io/lab4/","No bootstrap"]]},   
+        [1,"https://github.com/illusions333/lab4","https://illusions333.github.io/lab4/",""]]},   
     {"name":"Заєць Марія","points":[
         [1,"https://github.com/zaietsmary/lab1","https://zaietsmary.github.io/lab1/",""],
         [1,"https://github.com/zaietsmary/lab2","https://zaietsmary.github.io/lab2/",""],
