@@ -175,8 +175,8 @@ let students = `[
         [0.8,"https://github.com/nothing-real/lab-3","https://nothing-real.github.io/lab-3/","No scroll-up button"],
         [0.8,"https://github.com/nothing-real/lab-4","https://nothing-real.github.io/lab-4/","No adaptive design"], 0, ["Auto"]]},
     {"name":"Глушко Ігор","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Igor5456/-1/tree/main","",""],
+        [0.8,"https://github.com/jiggoorr/Lab2","",""],
         [0.5,"https://github.com/jiggoorr/lab-3-4","","No deploy"],
         [0.5,"https://github.com/jiggoorr/lab-3-4","","No deploy"]]},
     {"name":"Данилюк Максим","points":[
