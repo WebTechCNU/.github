@@ -269,6 +269,6 @@ let students = `[
     {"name":"Яремчук Софія","points":[
         [0.8,"https://github.com/Yaremchukk/lab1","https://yaremchukk.github.io/lab1/%D1%81%D0%BE%D1%84%D1%96%D1%8F/#","Late submition"],
         [0.8,"https://github.com/Yaremchukk/-2","https://yaremchukk.github.io/-2/html/","No root variables"],
-        [0,"","",""],
+        [0.8,"https://github.com/Yaremchukk/-3/tree/main","https://yaremchukk.github.io/-3/html%20%20%20%20%20%20%20%D1%81%D0%BE%D1%84%D0%B8/","No scroll up"],
         [0,"","",""]]}
 ]`;
