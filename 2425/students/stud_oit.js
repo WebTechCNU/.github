@@ -52,7 +52,7 @@ let students = `[
     {"name":"Іванов Микита","points":[
         [0.8,"https://github.com/Snubnan/laba-1","https://snubnan.github.io/laba-1/","Late submition"],
         [0.8,"https://github.com/Snubnan/laba-2","https://snubnan.github.io/laba-2/","No css variables"],
-        [0,"https://github.com/Snubnan/laba-3","https://snubnan.github.io/laba-3/index.html","No image hovering behavior"],
+        [0.8,"https://github.com/Snubnan/laba-3","https://snubnan.github.io/laba-3/index.html","No image hovering behavior"],
         [0,"","",""]]},
     {"name":"Кіцул Сергій","points":[
         [0.5,"https://github.com/SerhiiKitsul999/MIMIMI/blob/main/index.html","","Late submition, no deploy"],
