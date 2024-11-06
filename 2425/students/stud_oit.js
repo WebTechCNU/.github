@@ -265,7 +265,7 @@ let students = `[
         [0.8,"https://github.com/Yakubovskyimaksym/Labaratory1","","No deploy, late submition"],
         [1,"https://github.com/Yakubovskyimaksym/Labaragory-2","https://yakubovskyimaksym.github.io/Labaragory-2/",""],
         [1,"https://github.com/Yakubovskyimaksym/Labaratory-3","",""],
-        [0.5,"https://github.com/Yakubovskyimaksym/Labaratory-4","","No deploy"]]},
+        [0.8,"https://github.com/Yakubovskyimaksym/Labaratory-4","","No bootstrap"]]},
     {"name":"Яремчук Софія","points":[
         [0.8,"https://github.com/Yaremchukk/lab1","https://yaremchukk.github.io/lab1/%D1%81%D0%BE%D1%84%D1%96%D1%8F/#","Late submition"],
         [0.8,"https://github.com/Yaremchukk/-2","https://yaremchukk.github.io/-2/html/","No root variables"],
