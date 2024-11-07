@@ -1,8 +1,8 @@
 let students = `[
     {"name":"Авраменко Ігор (201A)","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/avramenko-ihor-chnu/OIT","",""],
+        [0.8,"https://github.com/avramenko-ihor-chnu/OIT","",""],
+        [0.8,"https://github.com/avramenko-ihor-chnu/OIT","",""],
         [0,"","",""]]},
     {"name":"Бабій Владислав","points":[
         [0,"","",""],
@@ -27,8 +27,8 @@ let students = `[
         [1,"https://github.com/AlinaIllivna/Lab4","https://alinaillivna.github.io/Lab4/main_page.html",""]
         , 0, ["Auto"]]},
     {"name":"Бучек Іван","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Eevon96/lab1_Buchek201","",""],
+        [0.8,"https://github.com/Eevon96/Lab2_Buchek201","",""],
         [0,"","",""],
         [0,"","",""]]},     
     {"name":"Волик Таміла","points":[
@@ -76,10 +76,10 @@ let students = `[
         [1,"https://github.com/agent2897/laba3","https://agent2897.github.io/laba3/",""],
         [0.5,"https://github.com/agent2897/laba-4","https://agent2897.github.io/laba-4/","No bootstrap, no modal window"]]},
     {"name":"Опрюк Дмитро","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [0.8,"https://github.com/DIMAIR13/oit_lab_1/tree/main/lab_1","https://dimair13.github.io/oit_lab_1/lab_1/",""],
+        [0.8,"https://github.com/DIMAIR13/oit_lab_2/tree/main/lab_2","https://dimair13.github.io/oit_lab_2/lab_2/",""],
+        [0.8,"https://github.com/DIMAIR13/oit_lab_3/tree/main/lab_3","https://dimair13.github.io/oit_lab_3/lab_3/",""],
+        [0.8,"https://github.com/DIMAIR13/oit_lab_4/tree/main/lab_4","https://dimair13.github.io/oit_lab_4/lab_4/",""]]},
     {"name":"Ігор Яцько","points":[
         [1,"https://github.com/Nagat0-0/lab_1_OIT","https://nagat0-0.github.io/lab_1_OIT/index.html",""],
         [1,"https://github.com/Nagat0-0/lab2_oit","https://nagat0-0.github.io/lab2_oit/",""],
@@ -106,13 +106,13 @@ let students = `[
         [1,"https://github.com/oksankah/oitlab2","https://github.com/oksankah/oitlab2","No deploy, but presented offline ✅"],
         [1,"https://github.com/oksankah/oitlab3","","No deploy, but presented offline ✅"],
         [1,"https://github.com/oksankah/oitlab4","https://oksankah.github.io/oitlab4/oitlab/",""]
-        , 0, ["Auto"]]},
+        , 0, ["Auto", "95"]]},
     {"name":"Голбан Уляна","points":[
         [1,"https://github.com/golbanulyana/Laboratory-1/","https://golbanulyana.github.io/Laboratory-1/homepage.html",""],
         [1,"https://github.com/GolbanUlyana/lab2.","https://golbanulyana.github.io/lab2./",""],
         [1,"https://github.com/GolbanUlyana/lab3","https://golbanulyana.github.io/lab3/",""],
         [1,"https://github.com/GolbanUlyana/Lab-4","https://golbanulyana.github.io/Lab-4/",""], [0, "!"]
-        , ["Auto"]]},
+        , ["Auto", "95"]]},
     {"name":"Григораш Ігор","points":[
         [0.8,"https://github.com/white13crow/laba-1-ihor-hryhorash","","No deploy, late submition"],
         [0.8,"https://github.com/ihor13hryhorash/laba-2-ihor-hryhorash","","No deploy"],
@@ -123,7 +123,7 @@ let students = `[
         [1,"https://github.com/eugenius03/lab2","https://eugenius03.github.io/lab2/training/",""],
         [1,"https://github.com/eugenius03/lab3","https://eugenius03.github.io/lab3/",""],
         [1,"https://github.com/eugenius03/lab4","https://eugenius03.github.io/lab4/",""], [0, "!"]
-        , ["Auto"]]},
+        , ["Auto", "99"]]},
     {"name":"Грималюк Сніжана","points":[
         [0,"","",""],
         [0,"","",""],
@@ -138,7 +138,7 @@ let students = `[
         [1,"https://github.com/zaietsmary/lab1","https://zaietsmary.github.io/lab1/",""],
         [1,"https://github.com/zaietsmary/lab2","https://zaietsmary.github.io/lab2/",""],
         [1,"https://github.com/zaietsmary/lab3","https://zaietsmary.github.io/lab3/",""],
-        [1,"https://github.com/zaietsmary/lab4","https://zaietsmary.github.io/lab4/",""], 0, ["Auto"]]},
+        [1,"https://github.com/zaietsmary/lab4","https://zaietsmary.github.io/lab4/",""], 0, ["Auto", "95"]]},
     {"name":"Ілюк Богдан","points":[
         [0.5,"https://github.com/Bohhdaan/LAB_1_ILIUK_BOHDAN","","No deploy"],
         [0.5,"https://github.com/Bohhdaan/LAB_2_ILIUK_BOHDAN","","No deploy"],
@@ -148,7 +148,7 @@ let students = `[
         [1,"https://github.com/nastyaklypak/lab_1","https://nastyaklypak.github.io/lab_1/","", "!!!"],
         [1,"https://github.com/nastyaklypak/lab_2","https://nastyaklypak.github.io/lab_2/",""],
         [1,"https://github.com/nastyaklypak/lab3","https://github.com/nastyaklypak/lab3","No deploy, but presented offline ✅"],
-        [1,"https://github.com/nastyaklypak/lab_4","https://nastyaklypak.github.io/lab_4/",""], 0, ["Auto"]]},
+        [1,"https://github.com/nastyaklypak/lab_4","https://nastyaklypak.github.io/lab_4/",""], 0, ["Auto", "95"]]},
     {"name":"Коба Сергій","points":[
         [1,"https://github.com/qenzai/html-css-js","https://qenzai.github.io/html-css-js/",""],
         [1,"https://github.com/qenzai/laba-2","https://qenzai.github.io/laba-2/",""],
@@ -158,7 +158,7 @@ let students = `[
         [1,"https://github.com/r0mank0valchuk/Lab_1","https://r0mank0valchuk.github.io/Lab_1/index.html",""],
         [1,"https://github.com/r0mank0valchuk/Lab_2","https://r0mank0valchuk.github.io/Lab_2/",""],
         [1,"https://github.com/r0mank0valchuk/lab3","https://r0mank0valchuk.github.io/lab3/#top",""],
-        [1,"https://github.com/r0mank0valchuk/Lab_4","https://r0mank0valchuk.github.io/Lab_4/",""], 0, ["Auto"]]},
+        [1,"https://github.com/r0mank0valchuk/Lab_4","https://r0mank0valchuk.github.io/Lab_4/",""], 0, ["Auto", "95"]]},
     {"name":"Антонов Олександр (208)","points":[
         [0,"","",""],
         [0,"","",""],

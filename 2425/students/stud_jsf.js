@@ -3,7 +3,7 @@ let students = `[
         [1,"https://github.com/AnnaAntonuk/boostrap1-","https://annaantonuk.github.io/boostrap1-/",""],
         [1,"https://github.com/AnnaAntonuk/project0","https://annaantonuk.github.io/project0/",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/AnnaAntonuk/todo-list","https://annaantonuk.github.io/todo-list/",""],
         [0,"","",""]]},
     {"name":"Боровскіх Євгеній","points":[
         [1,"https://github.com/Texofff/lab1","https://texofff.github.io/lab1/",""],
@@ -16,16 +16,16 @@ let students = `[
         [1,"https://github.com/Anastasis08/ToDoList","https://anastasis08.github.io/ToDoList/",""],
         [1,"https://github.com/Anastasis08/lab3Angular","https://anastasis08.github.io/lab3Angular/",""],
         [1,"https://github.com/Anastasis08/lab4React","https://github.com/Anastasis08/lab4React",""],
-        [0,"","",""]]},
+        [1,"https://github.com/Anastasis08/MEANlab5","",""]]},
     {"name":"Данко Геннадій","points":[
         [1,"https://gen0nim.github.io/Boostrap_lab/","https://gen0nim.github.io/Boostrap_lab/","Code link"],
         [1,"https://github.com/Gen0nim/jQuery-toDo","https://gen0nim.github.io/jQuery-toDo/",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""]]},
+        [1,"https://github.com/Gen0nim/angular-gh-pages","https://gen0nim.github.io/angular-gh-pages/",""],
+        [1,"https://github.com/Gen0nim/react-gh-pages/tree/main","https://gen0nim.github.io/react-gh-pages/",""],
+        [1,"https://github.com/Gen0nim/mean","",""]]},
     {"name":"Квасницька Єлизавета","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/quaso-n/lab-2.git","https://quaso-n.github.io/lab-2/",""],
+        [1,"https://github.com/quaso-n/lab-1.git","https://quaso-n.github.io/lab-1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -34,7 +34,7 @@ let students = `[
         [1,"https://github.com/Olia1802/Project0","https://olia1802.github.io/Project0/",""],
         [1,"https://github.com/Olia1802/Angular","https://github.com/Olia1802/Angular",""],
         [1,"https://github.com/Olia1802/React","https://github.com/Olia1802/React",""],
-        [0,"","",""]]},
+        [1,"https://github.com/Olia1802/MEAN","",""]]},
     {"name":"Мішин Олег","points":[
         [0,"","",""],
         [0,"","",""],
@@ -57,7 +57,7 @@ let students = `[
         [1,"https://github.com/goshkaaaa/lab1","https://goshkaaaa.github.io/lab1/",""],
         [0.5,"https://github.com/goshkaaaa/lab2","https://goshkaaaa.github.io/lab2/","No offline presentation, no styles, no input functionality"],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/goshkaaaa/lab4","",""],
         [0,"","",""]]},
     {"name":"Білан Олександра","points":[
         [0,"","",""],
@@ -78,8 +78,8 @@ let students = `[
         [1,"https://github.com/SweetPomegranate/react","https://sweetpomegranate.github.io/react/dist/index.html",""],
         [0,"","",""]]},
     {"name":"Вадяк Валерій","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://vachokvalerchik.github.io/vadiak_k3_js_lab1/LAB%201/HTML/index.html","https://vachokvalerchik.github.io/vadiak_k3_js_lab1/LAB%201/HTML/index.html",""],
+        [1,"https://vachokvalerchik.github.io/vadiak_k3_js_lab2/LAB%202/HTML/index.html","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
@@ -90,10 +90,10 @@ let students = `[
         [1,"https://github.com/ViktorHalushka/Lab_4_react","",""],
         [0,"","",""]]},
     {"name":"Грищенко Анастасія","points":[
+        [1,"https://github.com/Anastas12345/lab1_js","https://anastas12345.github.io/lab1_js/",""],
+        [1,"https://github.com/Anastas12345/lab2_js","https://anastas12345.github.io/lab2_js/",""],
         [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/Anastas12345/lab_react_js","",""],
         [0,"","",""]]},
     {"name":"Гуцуляк Максим","points":[
         [1,"https://github.com/Makshutsuliak/web_bootstrap4","https://makshutsuliak.github.io/web_bootstrap/bootstrap/index.html",""],
@@ -104,7 +104,7 @@ let students = `[
     {"name":"Жалоба Павло","points":[
         [1,"https://github.com/ToTheTermsOfService/lab1","https://github.com/ToTheTermsOfService/lab1",""],
         [1,"https://github.com/ToTheTermsOfService/lb2","https://github.com/ToTheTermsOfService/lb2",""],
-        [0,"","",""],
+        [1,"https://github.com/ToTheTermsOfService/lb3","",""],
         [1,"https://github.com/ToTheTermsOfService/lb4","",""],
         [0,"","",""]]},
     {"name":"Завалецький Владислав","points":[
@@ -135,13 +135,13 @@ let students = `[
         [1,"https://github.com/37Lucky37/Lab1_Bootstrap.git","https://37lucky37.github.io/Lab1_Bootstrap/",""],
         [1,"https://github.com/37Lucky37/Lab2_ToDo_jQuery","https://37lucky37.github.io/Lab2_ToDo_jQuery",""],
         [1,"https://github.com/37Lucky37/Lab3_Angular","",""],
-        [0,"","",""],
+        [1,"https://github.com/37Lucky37/Lab4_React","",""],
         [0,"","",""]]},
     {"name":"Козуб Назар","points":[
         [1,"https://github.com/nazarkozub/JS_lab_1","https://nazarkozub.github.io/JS_lab_1/",""],
         [1,"https://github.com/nazarkozub/JS_lab_2","https://github.com/nazarkozub/JS_lab_2","Would be nice to have deploy ..."],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/nazarkozub/JS_lab_3","",""],
+        [0,"https://github.com/nazarkozub/JS_lab_4","",""],
         [0,"","",""]]},
     {"name":"Корня Петро","points":[
         [0,"","",""],
@@ -180,9 +180,9 @@ let students = `[
         [1,"https://github.com/emmastrienko/simple-todo-app-react","https://github.com/emmastrienko/simple-todo-app-react",""],
         [1,"https://github.com/emmastrienko/note-taking-app-mern","",""]]},
     {"name":"Лисенко Ніколя","points":[
-        [0,"","",""],
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/lysenkonikola/jsfraimworks","","No deploy"],
+        [0.8,"https://github.com/lysenkonikola/jsfraimworks","","No deploy"],
+        [1,"https://github.com/lysenkonikola/jsfraimworks","",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Мірчук Андрій","points":[
