@@ -141,7 +141,7 @@ let students = `[
         [1,"https://github.com/nazarkozub/JS_lab_1","https://nazarkozub.github.io/JS_lab_1/",""],
         [1,"https://github.com/nazarkozub/JS_lab_2","https://github.com/nazarkozub/JS_lab_2","Would be nice to have deploy ..."],
         [1,"https://github.com/nazarkozub/JS_lab_3","",""],
-        [0,"https://github.com/nazarkozub/JS_lab_4","",""],
+        [1,"https://github.com/nazarkozub/JS_lab_4","",""],
         [0,"","",""]]},
     {"name":"Корня Петро","points":[
         [0,"","",""],
