@@ -122,8 +122,8 @@ let students = `[
     {"name":"Кирстюк Олександр","points":[
         [1,"https://github.com/ColdCapitan/bootstrap","https://coldcapitan.github.io/bootstrap/",""],
         [1,"https://github.com/ColdCapitan/jQuery","https://coldcapitan.github.io/jQuery/",""],
+        [1,"https://github.com/ColdCapitan/Angular","https://coldcapitan.github.io/Angular/",""],
         [1,"https://github.com/ColdCapitan/React","https://superb-churros-730143.netlify.app/#info",""],
-        [0,"","",""],
         [1,"https://github.com/ColdCapitan/MERN","https://chipper-kleicha-30c78a.netlify.app",""]]},
     {"name":"Козловський Василь","points":[
         [1,"https://github.com/WhoIsTheBot/BootStrapOne","https://whoisthebot.github.io/BootStrapOne/",""],
