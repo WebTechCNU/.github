@@ -27,7 +27,7 @@ let students = `[
         [1,"https://github.com/quaso-n/lab-2.git","https://quaso-n.github.io/lab-2/",""],
         [1,"https://github.com/quaso-n/lab-1.git","https://quaso-n.github.io/lab-1/",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/quaso-n/lab-4","https://quaso-n.github.io/lab-4/",""],
         [0,"","",""]]},
     {"name":"Мельник Ольга","points":[
         [1,"https://github.com/Olia1802/Bootstrap","https://olia1802.github.io/Bootstrap/","Great Job!"],

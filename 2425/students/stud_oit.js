@@ -87,8 +87,8 @@ let students = `[
         [0.8,"https://github.com/Nagat0-0/lab4_oit","https://nagat0-0.github.io/lab4_oit/","No modal window"]
         , 0, ["Auto"]]},
     {"name":"Батуєва Анастасія (211A)","points":[
-        [0,"","",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Ananas-9/lab1","",""],
+        [0.8,"https://github.com/Ananas-9/lab2","",""],
         [0,"","",""],
         [0,"","",""]]},
     {"name":"Веленчук Володимир ","points":[
