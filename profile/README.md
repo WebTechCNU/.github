@@ -10,7 +10,7 @@
 
 Операційні системи (3 курс): https://webtechcnu.github.io/.github/2425/os.html
 
-~~Web-технології (2 курс): https://webtechcnu.github.io/.github/2324/web.html~~
+Web-технології (2 курс): https://webtechcnu.github.io/.github/2425/web.html
 
 <br/>
 

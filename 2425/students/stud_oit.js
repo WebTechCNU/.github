@@ -5,7 +5,7 @@ let students = `[
         [0.8,"https://github.com/avramenko-ihor-chnu/OIT","",""],
         [0,"","",""]]},
     {"name":"Бабій Владислав","points":[
-        [0,"","",""],
+        [0.8,"https://github.com/Vladyslav102005/Laboratorna_1/tree/Vladyslav102005-patch-1","","Late submition"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""]]},
