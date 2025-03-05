@@ -4,11 +4,11 @@
 
 <b>Мета</b>: Головною метою курсу “Web-технології” є вивчення  основних прийомів і методів роботи в мережі Internet, конструювання Web-сторінок, вивчення можливостей використання сучасних інтернет-технологій для успішного здійснення інформаційно-комп’ютерної діяльності у всесвітній павутині.
 
-Результати виконання лабораторних з OIT (2 курс): https://webtechcnu.github.io/.github/2425/oit.html
+~~Результати виконання лабораторних з OIT (2 курс): https://webtechcnu.github.io/.github/2425/oit.html~~
 
-Фреймворки JavaScript (3 курс): https://webtechcnu.github.io/.github/2425/jsf.html
+~~Фреймворки JavaScript (3 курс): https://webtechcnu.github.io/.github/2425/jsf.html~~
 
-Операційні системи (3 курс): https://webtechcnu.github.io/.github/2425/os.html
+~~Операційні системи (3 курс): https://webtechcnu.github.io/.github/2425/os.html~~
 
 Web-технології (2 курс): https://webtechcnu.github.io/.github/2425/web.html
 

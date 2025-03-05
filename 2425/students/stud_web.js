@@ -40,7 +40,7 @@ let students = `[
         0,""
     ]},
     {"name":"Гарвасюк Оксана","points":[
-        [0,"","",""],
+        [1,"https://github.com/oksankah/weblab1","https://oksankah.github.io/weblab1/web/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -56,7 +56,7 @@ let students = `[
         0,""
     ]},
     {"name":"Григор'єв Євгеній","points":[
-        [0,"","",""],
+        [1,"","https://eugenius03.github.io/1lab/","Send link to repository, not actual deploy, next time please"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -96,7 +96,7 @@ let students = `[
         0,""
     ]},
     {"name":"Клипак Анастасія","points":[
-        [0,"","",""],
+        [1,"https://github.com/nastyaklypak/webLab1","https://nastyaklypak.github.io/webLab1/web/lab1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
