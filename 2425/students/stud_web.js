@@ -142,5 +142,21 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         0,""
+    ]},
+    {"name":"Марусяк Владислав","points":[
+        [1,"https://github.com/Wokansiy/js-1laba","https://github.com/Wokansiy/js-1laba",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Параєва Марія","points":[
+        [1,"https://github.com/mariidaz/js-laba1/tree/main","https://mariidaz.github.io/js-laba1/index.html",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
     ]}
 ]`;
