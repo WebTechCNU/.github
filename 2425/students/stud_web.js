@@ -7,6 +7,38 @@ let students = `[
         [0,"","",""],
         0,""
     ]},
+    {"name":"Тинкалюк Анатолій","points":[
+        [1,"https://github.com/Anatoliy-Tynkaliuk/Lab-1-WEB","https://anatoliy-tynkaliuk.github.io/Lab-1-WEB/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Чорній Богданна","points":[
+        [1,"https://github.com/Bohdanna06/Web","https://bohdanna06.github.io/Web/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Рудейчук Марія","points":[
+        [1,"https://github.com/masha191r/lab1web","https://masha191r.github.io/lab1web/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Ткачук Ангеліна","points":[
+        [0.8,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated code: https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47"],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
     {"name":"???","points":[
         [0,"","",""],
         [0,"","",""],
@@ -80,7 +112,7 @@ let students = `[
         0,""
     ]},
     {"name":"Заєць Марія","points":[
-        [0,"","",""],
+        [1,"https://github.com/zaietsmary/laboratory-1","https://zaietsmary.github.io/laboratory-1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -104,7 +136,7 @@ let students = `[
         0,""
     ]},
     {"name":"Коба Сергій","points":[
-        [0,"","",""],
+        [1,"https://github.com/qenzai/web-lab-1","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -112,7 +144,7 @@ let students = `[
         0,""
     ]},
     {"name":"Ковальчук Роман","points":[
-        [0,"","",""],
+        [1,"https://github.com/r0mank0valchuk/Lab1","https://r0mank0valchuk.github.io/Lab1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
