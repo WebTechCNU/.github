@@ -49,7 +49,7 @@ let students = `[
     ]},
     {"name":"Кирил Кравцов (211)","points":[
         [1,"https://github.com/UserAgent0007/web-lab1-javascrypt","https://useragent0007.github.io/web-lab1-javascrypt/",""],
-        [0,"","",""],
+        [1,"https://github.com/UserAgent0007/oit_project","https://useragent0007.github.io/oit_project/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -57,7 +57,7 @@ let students = `[
     ]},
     {"name":"Максимюк Олександр","points":[
         [1,"https://github.com/SashaMaksymiuk/web-lab-1","https://sashamaksymiuk.github.io/web-lab-1/",""],
-        [0,"","",""],
+        [1,"https://github.com/SashaMaksymiuk/web-lab-2","https://sashamaksymiuk.github.io/web-lab-2/gallery",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
