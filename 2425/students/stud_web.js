@@ -32,7 +32,15 @@ let students = `[
         0,""
     ]},
     {"name":"Ткачук Ангеліна","points":[
-        [0.8,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated <a href='https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47'>code</a>: "],
+        [0.8,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated <a href='https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47'>code</a>"],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Попов Роман","points":[
+        [0.8,"https://github.com/popovtt/web-labs-chnu/","https://maxvonlancaster.github.io/web-labs-chnu/lab-1/", "No git pages deploy; <a href='https://github.com/maxvonlancaster/web-labs-chnu/blob/main/lab-1/script.js#L37'>some</a> <a href='https://github.com/maxvonlancaster/web-labs-chnu/blob/main/lab-1/script.js#L5'>gpt</a>-<a href='https://github.com/maxvonlancaster/web-labs-chnu/blob/main/lab-1/script.js#L8'>generated</a> <a href='https://github.com/maxvonlancaster/web-labs-chnu/blob/main/lab-1/script.js#L22'>code</a>"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
