@@ -1,6 +1,6 @@
 let students = `[
     {"name":"Авраменко Ігор (201)","points":[
-        [0,"","",""],
+        [0.8,"https://github.com/avramenko-ihor-chnu/web-tech-1","https://avramenko-ihor-chnu.github.io/web-tech-1/","I expected more tasks done then one"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -81,7 +81,7 @@ let students = `[
     ]},
     {"name":"Гарвасюк Оксана","points":[
         [1,"https://github.com/oksankah/weblab1","https://oksankah.github.io/weblab1/web/",""],
-        [0,"","",""],
+        [1,"https://github.com/oksankah/weblab2","https://oksankah.github.io/weblab2/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -97,7 +97,7 @@ let students = `[
     ]},
     {"name":"Григор'єв Євгеній","points":[
         [1,"","https://eugenius03.github.io/1lab/","Send link to repository, not actual deploy, next time please"],
-        [0,"","",""],
+        [1,"https://github.com/eugenius03/2lab","https://eugenius03.github.io/2lab/","Great job with fetching data, extra points!"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -145,7 +145,7 @@ let students = `[
     ]},
     {"name":"Коба Сергій","points":[
         [1,"https://github.com/qenzai/web-lab-1","",""],
-        [0,"","",""],
+        [1,"https://github.com/qenzai/web-lab-2","https://qenzai.github.io/web-lab-2/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -193,6 +193,14 @@ let students = `[
     ]},
     {"name":"Параєва Марія","points":[
         [1,"https://github.com/mariidaz/js-laba1/tree/main","https://mariidaz.github.io/js-laba1/index.html",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Гордійчук Василь","points":[
+        [1,"https://github.com/teethlevelofenj/gematogen8/tree/main/labweeeeb1","https://teethlevelofenj.github.io/gematogen8/labweeeeb1/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
