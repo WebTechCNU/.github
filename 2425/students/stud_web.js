@@ -4,7 +4,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
-        [0,"","",""],
+        [1,"","","Additional points: Help with projector on lecture =)"],
         0,""
     ]},
     {"name":"Тинкалюк Анатолій","points":[
