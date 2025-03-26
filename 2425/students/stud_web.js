@@ -47,6 +47,14 @@ let students = `[
         [0,"","",""],
         0,""
     ]},
+    {"name":"Мулярчик Матвій","points":[
+        [0.8,"https://github.com/Mattew-M/Lab-1-WEB","https://mattew-m.github.io/Lab-1-WEB/", "Some GPT <a href='https://github.com/Mattew-M/Lab-1-WEB/blob/master/script.js#L82'>code</a>"],
+        [0.8,"https://github.com/Mattew-M/Lab-2-WEB/tree/main","https://mattew-m.github.io/Lab-2-WEB/shop/shop","Broken deploy, Some GPT <a href='https://github.com/Mattew-M/Lab-2-WEB/blob/main/shop/shop.js#L25'>code</a>"],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
     {"name":"???","points":[
         [0,"","",""],
         [0,"","",""],
@@ -73,8 +81,8 @@ let students = `[
     ]},
     {"name":"Голбан Уляна","points":[
         [1,"https://github.com/GolbanUlyana/-1-.2","https://golbanulyana.github.io/-1-.2/",""],
-        [0,"","",""],
-        [0,"","",""],
+        [1,"https://github.com/GolbanUlyana/-2.0","",""],
+        [1,"https://github.com/GolbanUlyana/-3.0","",""],
         [0,"","",""],
         [0,"","",""],
         0,""
@@ -137,7 +145,7 @@ let students = `[
     ]},
     {"name":"Клипак Анастасія","points":[
         [1,"https://github.com/nastyaklypak/webLab1","https://nastyaklypak.github.io/webLab1/web/lab1/",""],
-        [0,"","",""],
+        [1,"https://github.com/nastyaklypak/webLab2","ьhttps://nastyaklypak.github.io/webLab2/",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
