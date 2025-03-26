@@ -32,7 +32,7 @@ let students = `[
         0,""
     ]},
     {"name":"Ткачук Ангеліна","points":[
-        [0.8,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated <a href='https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47'>code</a>"],
+        [1,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated <a href='https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47'>code</a>"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
