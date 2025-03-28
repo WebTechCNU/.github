@@ -55,6 +55,22 @@ let students = `[
         [0,"","",""],
         0,""
     ]},
+    {"name":"Кречуняк Єгор","points":[
+        [0.5,"https://github.com/Egor4ik2/Lab-1-WEB","https://egor4ik2.github.io/Lab-1-WEB/","GPT generated: https://github.com/Egor4ik2/Lab-1-WEB/blob/main/script.js#L44"],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
+    {"name":"Кочала Олександр","points":[
+        [1,"https://github.com/leGromp12/web","https://legromp12.github.io/web/",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
     {"name":"???","points":[
         [0,"","",""],
         [0,"","",""],
@@ -201,7 +217,7 @@ let students = `[
     ]},
     {"name":"Параєва Марія","points":[
         [1,"https://github.com/mariidaz/js-laba1/tree/main","https://mariidaz.github.io/js-laba1/index.html",""],
-        [0,"","",""],
+        [1,"https://github.com/mariidaz/2laba_paraeva","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
