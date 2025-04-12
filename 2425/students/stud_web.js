@@ -9,7 +9,7 @@ let students = `[
     ]},
     {"name":"Тинкалюк Анатолій","points":[
         [1,"https://github.com/Anatoliy-Tynkaliuk/Lab-1-WEB","https://anatoliy-tynkaliuk.github.io/Lab-1-WEB/",""],
-        [0,"","",""],
+        [1,"https://github.com/Anatoliy-Tynkaliuk/Labaratorna-2-WEB","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -17,7 +17,7 @@ let students = `[
     ]},
     {"name":"Чорній Богданна","points":[
         [1,"https://github.com/Bohdanna06/Web","https://bohdanna06.github.io/Web/",""],
-        [0,"","",""],
+        [0.8,"https://github.com/Bohdanna06/WebLaba2","https://bohdanna06.github.io/WebLaba2/","Broken deploy, GPT code: <a href='https://github.com/Bohdanna06/WebLaba2/blob/main/js/scripts.js#L54'>link</a>"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -79,6 +79,14 @@ let students = `[
         [0,"","",""],
         0,""
     ]},
+    {"name":"Філіпова Єлизавета","points":[
+        [1,"https://github.com/lizafilipova/lab-1-web","https://lizafilipova.github.io/lab-1-web/fouth.html",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        [0,"","",""],
+        0,""
+    ]},
     {"name":"???","points":[
         [0,"","",""],
         [0,"","",""],
@@ -90,7 +98,7 @@ let students = `[
     {"name":"Кирил Кравцов (211)","points":[
         [1,"https://github.com/UserAgent0007/web-lab1-javascrypt","https://useragent0007.github.io/web-lab1-javascrypt/",""],
         [1,"https://github.com/UserAgent0007/oit_project","https://useragent0007.github.io/oit_project/",""],
-        [0,"","",""],
+        [1,"https://github.com/UserAgent0007/oit_project","",""],
         [0,"","",""],
         [0,"","",""],
         0,""
@@ -153,7 +161,7 @@ let students = `[
     ]},
     {"name":"Заєць Марія","points":[
         [1,"https://github.com/zaietsmary/laboratory-1","https://zaietsmary.github.io/laboratory-1/",""],
-        [0,"","",""],
+        [1,"https://github.com/zaietsmary/laboratory-2","",""],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
