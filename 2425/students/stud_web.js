@@ -25,7 +25,7 @@ let students = `[
     ]},
     {"name":"Рудейчук Марія","points":[
         [1,"https://github.com/masha191r/lab1web","https://masha191r.github.io/lab1web/",""],
-        [0,"","",""],
+        [0.8,"https://github.com/masha191r/lab2web","https://masha191r.github.io/lab2web/","Gpt generated: <a href='https://github.com/masha191r/lab2web/blob/main/script.js#L59'>link<a>"],
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
@@ -138,7 +138,7 @@ let students = `[
     {"name":"Григор'єв Євгеній","points":[
         [1,"","https://eugenius03.github.io/1lab/","Send link to repository, not actual deploy, next time please"],
         [1,"https://github.com/eugenius03/2lab","https://eugenius03.github.io/2lab/","Great job with fetching data, extra points!"],
-        [0,"","",""],
+        [1,"https://github.com/eugenius03/3lab","https://eugenius03.github.io/3lab/",""],
         [0,"","",""],
         [0,"","",""],
         0,""
@@ -186,7 +186,7 @@ let students = `[
     {"name":"Коба Сергій","points":[
         [1,"https://github.com/qenzai/web-lab-1","",""],
         [1,"https://github.com/qenzai/web-lab-2","https://qenzai.github.io/web-lab-2/",""],
-        [0,"","",""],
+        [0.8,"https://github.com/qenzai/web-lab-4","https://qenzai.github.io/web-lab-4/","Gpt generated: <a href='https://github.com/qenzai/web-lab-4/blob/main/script.js#L107'>link</a>"],
         [0,"","",""],
         [0,"","",""],
         0,""
