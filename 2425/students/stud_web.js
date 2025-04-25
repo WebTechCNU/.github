@@ -162,7 +162,7 @@ let students = `[
     {"name":"Заєць Марія","points":[
         [1,"https://github.com/zaietsmary/laboratory-1","https://zaietsmary.github.io/laboratory-1/",""],
         [1,"https://github.com/zaietsmary/laboratory-2","",""],
-        [0,"","",""],
+        [1,"https://github.com/zaietsmary/laboratory-3","",""],
         [0,"","",""],
         [0,"","",""],
         0,""
@@ -187,7 +187,7 @@ let students = `[
         [1,"https://github.com/qenzai/web-lab-1","",""],
         [1,"https://github.com/qenzai/web-lab-2","https://qenzai.github.io/web-lab-2/",""],
         [0.8,"https://github.com/qenzai/web-lab-4","https://qenzai.github.io/web-lab-4/","Gpt generated: <a href='https://github.com/qenzai/web-lab-4/blob/main/script.js#L107'>link</a>"],
-        [0,"","",""],
+        [0.8,"http://github.com/qenzai/web-lab-4/tree/main","","No backend present in github, some GPT generated code: <a href='https://github.com/qenzai/web-lab-4/blob/main/script.js#L107'>link</a>"],
         [0,"","",""],
         0,""
     ]},
