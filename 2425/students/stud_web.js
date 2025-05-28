@@ -21,7 +21,7 @@ let students = `[
         [0.8,"https://github.com/Bohdanna06/Laba3","http://bohdanna06.github.io/Laba3/","Broken deploy"],
         [1,"https://github.com/Bohdanna06/-4","https://bohdanna06.github.io/-4/",""],
         [0,"","",""],
-        0,""
+        0,"93 A"
     ]},
     {"name":"Рудейчук Марія","points":[
         [1,"https://github.com/masha191r/lab1web","https://masha191r.github.io/lab1web/",""],
@@ -29,7 +29,7 @@ let students = `[
         [1,"https://github.com/masha191r/lab3web","https://masha191r.github.io/lab3web/",""],
         [0.8,"https://github.com/masha191r/lab4web","","No deploy, no requests to backend for login/data fetching"],
         [0,"","",""],
-        0,""
+        0,"94 A"
     ]},
     {"name":"Ткачук Ангеліна","points":[
         [1,"https://github.com/Bohdanna06/LabaAngelina/tree/main/Lb%20-1","https://bohdanna06.github.io/LabaAngelina/Lb%20-1/","Great job overall, some gpt-generated <a href='https://github.com/Bohdanna06/LabaAngelina/blob/main/Lb%20-1/script.js#L47'>code</a>"],
@@ -77,7 +77,7 @@ let students = `[
         [0.8,"https://zzk07.github.io/laba-3/products.html","https://zzk07.github.io/laba-3/products.html","Some gpt-generated code: <a href='https://github.com/zzk07/laba-3/blob/main/products.js#L187'>link</a>"],
         [0.5,"https://zzk07.github.io/Lab-4/login.html","https://zzk07.github.io/Lab-4/login.html","No link to code was provided, I do not see any backend requests"],
         [0,"","",""],
-        0,""
+        0,"87 B"
     ]},
     {"name":"Філіпова Єлизавета","points":[
         [1,"https://github.com/lizafilipova/lab-1-web","https://lizafilipova.github.io/lab-1-web/fouth.html",""],
@@ -85,7 +85,7 @@ let students = `[
         [0.8,"https://github.com/lizafilipova/laba-3-web","","No deploy"],
         [0.8,"https://github.com/lizafilipova/4-","","No backend requests"],
         [0,"","",""],
-        0,""
+        0,"93 A"
     ]},
     {"name":"Широков Артем","points":[
         [0.5,"https://github.com/Kabuto43/WEB-Lab-1","https://kabuto43.github.io/WEB-Lab-1/#/task-1","Late submission, some GPT generated code: <a href='https://github.com/Kabuto43/WEB-Lab-1/blob/main/src/Components/WordCounter/WordCounter.jsx#L9'>link</a>"],
@@ -229,7 +229,7 @@ let students = `[
         [1,"https://github.com/VelenchukVolodymyr/lab-3-web.git","",""],
         [0,"","",""],
         [0,"","",""],
-        31,""
+        31,"70"
     ]},
     {"name":"Волков Віталій","points":[
         [0,"","",""],
