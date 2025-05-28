@@ -229,7 +229,7 @@ let students = `[
         [1,"https://github.com/VelenchukVolodymyr/lab-3-web.git","",""],
         [0,"","",""],
         [0,"","",""],
-        0,""
+        31,""
     ]},
     {"name":"Волков Віталій","points":[
         [0,"","",""],
