@@ -45,7 +45,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
-        0,""
+        0,"54 E"
     ]},
     {"name":"Мулярчик Матвій","points":[
         [0.8,"https://github.com/Mattew-M/Lab-1-WEB","https://mattew-m.github.io/Lab-1-WEB/", "Some GPT <a href='https://github.com/Mattew-M/Lab-1-WEB/blob/master/script.js#L82'>code</a>"],
@@ -53,7 +53,7 @@ let students = `[
         [1,"https://github.com/Mattew-M/Lab-3-WEB.git","https://mattew-m.github.io/Lab-3-WEB/shop/shop.html","Thanks for readme.md, that wa very helpful!"],
         [0,"","",""],
         [0,"","",""],
-        0,""
+        32,"72 C"
     ]},
     {"name":"Кречуняк Єгор","points":[
         [0.5,"https://github.com/Egor4ik2/Lab-1-WEB","https://egor4ik2.github.io/Lab-1-WEB/","GPT generated: https://github.com/Egor4ik2/Lab-1-WEB/blob/main/script.js#L44"],
@@ -61,7 +61,7 @@ let students = `[
         [1,"https://github.com/Egor4ik2/WEB-LAB-3","https://egor4ik2.github.io/WEB-LAB-3/index.html",""],
         [0,"","",""],
         [0,"","",""],
-        0,""
+        35,"72 C"
     ]},
     {"name":"Кочала Олександр","points":[
         [1,"https://github.com/leGromp12/web","https://legromp12.github.io/web/",""],
@@ -93,7 +93,7 @@ let students = `[
         [0,"","",""],
         [0,"","",""],
         [0,"","",""],
-        0,""
+        34,"51"
     ]},
     {"name":"Рудий Назарій","points":[
         [0.5,"https://github.com/Sunner13/Lab1JS","https://sunner13.github.io/Lab1JS/","Late submission, some GPT generated code: <a href='https://github.com/Sunner13/Lab1JS/blob/main/js/task2.js#L84'>link</a>"],
