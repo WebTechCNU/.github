@@ -226,7 +226,7 @@ let students = `[
     {"name":"Веленчук Володимир","points":[
         [0.5,"https://github.com/VelenchukVolodymyr/lab1WEB.git","","Late submision, zip file"],
         [0.8,"https://github.com/VelenchukVolodymyr/lab2WEB","","Late submision, no deploy"],
-        [0,"","",""],
+        [1,"https://github.com/VelenchukVolodymyr/lab-3-web.git","",""],
         [0,"","",""],
         [0,"","",""],
         0,""
